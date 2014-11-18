@@ -3,8 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Venetus A Main Shcolia</title>
-                <author>YOUR NAME HERE</author>
+                <title>Venetus A Main Scholia</title>
+                <author>Charles J. Schufreider</author>
+                <author>Nikolas Churik</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -15,15 +16,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="11">
+        <group n="15">
             <text n="msA">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.1" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.1" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.</p>
                         </div>
                         <div type="comment">
                             <p></p>
