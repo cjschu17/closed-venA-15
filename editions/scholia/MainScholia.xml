@@ -173,16 +173,15 @@
                             </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:15." type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.10" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>εἴαθ' ὁ δ' ἀργαλέω</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
-                        </div>
+                            <p>ὅτι κατα τὸ πληρες ἐκληπτέον κὴρ εῖτα ἀ</p>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:15." type="scholion">
                         <div type="lemma">
