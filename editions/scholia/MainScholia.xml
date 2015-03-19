@@ -370,6 +370,68 @@
                                     λύοντα ⁑</p>
                             </div>
                         </div>
+                            <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.18" type="scholion">
+                            <div type="lemma">
+                                <p>‡πεπιθοῦσα θυέλλας:</p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.26</p>
+                            </div>
+                            <div type="comment">
+                                <p>ὡς δραμοῦσα. ἔστι γὰρ δεύτερος ἀόριστος δεδιπλασιασμένος. ὥσπερ
+                                    ἥδη. καὶ ἐπι τοῦ ῥήματος ἔθος αὐτῷ ποιεῖν· <cit>
+                                        <ref type="urn"
+                                            >urn:cts:greekLit:tlg0012.tlg001.msA:9.184</ref>
+                                        <q>ῥηϊδίως πεπιθεῖν</q>
+                                    </cit>⁑</p>
+                            </div>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.19" type="scholion">
+                            <div type="lemma">
+                                <p>ἀτρύγετον</p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.27</p>
+                            </div>
+                            <div type="comment">
+                                <p>ἄβυσσον τρύγα μη έχοντα· ἠ ἄκαρπον παρὰ τὴν τρύγην ὡς <persName
+                                        n="urn:cite:hmt:pers.pers97">Εὐριπίδης</persName>
+                                    <cit>
+                                        <ref type="urn">urn:cits:greekLit:tlg0006.tlg015:201</ref>
+                                        <q>ἀκάρπιστα πεδία</q>
+                                    </cit>. λέγων τὴν θάλασσαν. καὶ οἱ μὲν τὸν <placeName
+                                        n="urn:cite:hmt:place.place104">Μυρτῷον</placeName> οἱ δὲ τὸ
+                                        <placeName n="urn:cite:hmt:place.place103"
+                                        >Αἰγαῖον</placeName>. οἱ δὲ ὑπερ τὴν εὔκρατον θάλασσαν τινὲς
+                                    δὲ φασὶν ἐπὶ <placeName n="urn:cite:hmt:place.place216"
+                                        >Πελλήνην</placeName> κατα Γιγάντων ἀπιόντα <persName
+                                        n="urn:cite:hmt:pers.pers71">Ἡρακλέα</persName>
+                                    πλανηθῆναι⁑</p>
+                            </div>
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.20" type="scholion">
+                            <div type="lemma">
+                                <p>καὶ τὸ κατειβόμενον <placeName n="urn:cite:hmt:place.place280"
+                                        >Στυγὸς</placeName> ὕδωρ.</p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.37</p>
+                            </div>
+                            <div type="comment">
+                                <p>ἐπεὶ ἡ <placeName n="urn:cite:hmt:place.place280"
+                                        >Στὺξ</placeName> καὶ κατα τὸν <persName
+                                        n="urn:cite:hmt:pers.pers4">Ἡσίοδον</persName> ἐστιν ἱερὰ
+                                    πηγὴ θυγάτηρ <choice>
+                                        <sic>ὠκέανου</sic>
+                                        <corr>ὠκεανοῦ</corr>
+                                    </choice>. ἡ ὡς τινὲς φασὶν, ὅτι ὁμώνυμος ταύτη ἐστιν ἡ πηγὴ ἣν
+                                    ἐν ἄδου ὅρκον φρικτὸν ἀυτῶν οἱ θεοὶ πεποίητην βουλήσει <persName
+                                        n="urn:cite:hmt:pers.pers8"><choice>
+                                            <sic>Διὸς</sic>
+                                            <corr>Διός</corr>
+                                        </choice></persName>⁑</p>
+                            </div>
+                        </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:15." type="scholion">
                         <div type="lemma">
                             <p/>
