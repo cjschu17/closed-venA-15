@@ -533,6 +533,97 @@
                                     n="urn:cite:hmt:pers.pers248">Ἡρακλέων</persName> ⁑</p>
                         </div>
                     </div>
+                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.25" type="scholion">
+                        <div type="lemma">
+                            <p>αῖψα μεταστέψειε νόον·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.52</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ νόον βέλτιον τοῖς ἡγουμένοις προσδιδοσθαι ἵνα τὸν τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName> λέγῃ δύναται
+                                δὲ καὶ τοῖς ἑξῆς ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.26" type="scholion">
+                        <div type="lemma">
+                            <p>ὄφρ' ἡ μεν μετα <choice>
+                                    <sic>λαῶν</sic>
+                                    <corr>λαὸν</corr>
+                                </choice>
+                                <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.56</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπο τούτου ἕως τοῦ <cit>
+                                    <q>λισσομένη τιμῆσαι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:15.77</ref>
+                                </cit> ἀθετοῦνται στίχοι <num value="22">κβ</num>, ὅτι οὐκ ἀναγκαίως
+                                παλλιλλογεῖται περι τῶν ἑξῆς ἐπεισαχθησομένων καὶ κατα τὴν σύνθεσιν
+                                εἰσὶν εὐτελεῖς καὶ ὅτι ὡς ἐπίπαν προς τὸ δεύτερον πρότερον ἀπαντᾷ·
+                                νῦν δὲ προς τὸ πρότερον ἀπήντηκεν ὄφρ' ἡ μὲν μετὰ λαὸν <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>· ψεῦδος
+                                δὲ καὶ τὸ <cit>
+                                    <q>φεύγοντες δ' ἐν νηυσὶ πολυκλήϊσι πέσωσι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:15.63</ref>
+                                </cit><cit>
+                                    <q><persName n="urn:cite:hmt:pers.pers47">Πηλείδεω
+                                            Ἀχιλῆος</persName></q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:15.64</ref>
+                                </cit>. οὔτε γὰρ παραγεγόνασιν ἕως τῶν <persName
+                                    n="urn:cite:hmt:pers.pers47">Ἀχιλλέως</persName> νεῶν, οὔτε τὸν
+                                    <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>
+                                ἀνέστησεν ἐπι τὸν πόλεμον ὁ <persName n="urn:cite:hmt:pers.pers47"
+                                    >Ἀχιλλεύς</persName>. καὶ τὸ <cit>
+                                    <q>πέσωσιν</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:15.63</ref>
+                                </cit> οὐχ Ὁμηρικόν. μᾶλλον γὰρ ἐκεῖνοις τὸ ἐμπεσεῖν ἐπι τοῦ
+                                ἐνσεῖσαι τίθησιν <cit>
+                                    <q>ἔφαντο γὰρ οὐκέτ' <rs type="ethnic"
+                                            n="urn:cite:hmt:place.place96">Ἀχαιούς</rs></q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:12.125</ref>
+                                </cit><cit>
+                                    <q>σχήσεσθ'. ἀλλ' ἐν νηυσὶ μελαίνῃσι πεσέεσθαι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:12.126</ref>
+                                </cit>. ἡ δὲ παλίωξις οὐχ Ὁμηρικῶς παρείληπται οὐ γὰρ λέγεται οὕτως
+                                ψιλῶς παρ' αὐτῷ ἡ φυγή, ἀλλ ὅταν ἐκ μεταβολῆς οἱ πρότερον φεύγοντες
+                                διώκωσι σαφῶς γὰρ ἐν ἄλλοις φησίν· <cit>
+                                    <q>εἰ δέ χ' ὑποστρέψω καὶ παλίωξις δὲ γένηται</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:12.71</ref>
+                                </cit>· ἀσύνηθες δὲ καὶ οὐδετερως τὸ Ἴλιον νῦν ῥηθὲν <cit>
+                                    <q><placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName>
+                                        αἰπὺ ἕλοιεν</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:15.71</ref>
+                                </cit>· πάντοτε γὰρ θηλυκῶς, λέγει. ἔν τε τῷ <cit>
+                                    <q>λισσομένη τιμῆσαι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:15.77</ref>
+                                </cit> φησὶν ὁ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName> ὅτι οὐδαμῆ τὸν <persName
+                                    n="urn:cite:hmt:pers.pers47">Ἀχιλλέα</persName> πτολίπορθον
+                                εἴρηκεν, ἀλλα ποδάρκη καὶ ποδώκη ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:15.27" type="scholion">
+                        <div type="lemma">
+                            <p>ὃ δ' ὰνστήσει ὂν ἑταῖρον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.64</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως ἀνστήσει ὃν αἱ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχου</persName>· τινὲς δὲ <q>ἀνστήσειεν ἑταῖρον</q> διὰ
+                                τοῦ <rs type="waw">ε</rs>. <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνόδοτος</persName> δὲ ἀπο τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers1">Πηλείδεω Ἀχιλῆος</persName> ἕως τοῦ <cit>
+                                    <q>λισσομένη τιμῆσαι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001.msA:15.77</ref>
+                                </cit> οὐδ' ὅλως ἔγραφεν.</p>
+                        </div>
+                    </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:15." type="scholion">
                         <div type="lemma">
                             <p/>
