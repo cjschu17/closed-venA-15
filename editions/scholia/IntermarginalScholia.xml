@@ -18,8 +18,8 @@
         <group n="12">
             <text n="msAim">
                 <body>
-                
-                <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.1" type="scholion">
+
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -28,10 +28,15 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                    <abbr>αρισταρχ</abbr>
-                                    <expan>Ἀρίσταρχος</expan>
-                                </choice></persName> <q>θυμον</q> αλλοι δὲ <q>θυμός</q> ἔστι δὲ ὁ τῆς ἀρισταρχείας
-                                φράσεως χαρακτηρ· <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001.21.122</ref><q>οἱ σ ωτειλήν αἷμ' ἀπολιχμήσονται·</q></cit> </p>
+                                        <abbr>αρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                <q>θυμον</q> αλλοι δὲ <q>θυμός</q> ἔστι δὲ ὁ τῆς ἀρισταρχείας
+                                φράσεως χαρακτηρ· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.21.122</ref>
+                                    <q>οἱ σ ωτειλήν αἷμ' ἀπολιχμήσονται·</q>
+                                </cit>
+                            </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.2" type="scholion">
@@ -84,7 +89,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.45</p>
                         </div>
                         <div type="comment">
-                            <p>καὶ κείνω ἐκ πλήρους <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName> τὸ καὶ <choice><abbr>συνδ</abbr><expan>συνδέσμον</expan></choice></p>
+                            <p>καὶ κείνω ἐκ πλήρους <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρισταρχος</persName> τὸ καὶ <choice>
+                                    <abbr>συνδ</abbr>
+                                    <expan>συνδέσμον</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.6" type="scholion">
@@ -95,7 +104,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.49</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers21"><choice><abbr>Αριστοφ</abbr><expan>Ἀριστοφάνης</expan></choice></persName> μετὰ τοῦ σ <q>βοῶπις</q>· καὶ ἔστιν εὐφραδέστερον :</p>
+                            <p><persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Αριστοφ</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName> μετὰ τοῦ σ <q>βοῶπις</q>· καὶ ἔστιν
+                                εὐφραδέστερον :</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.7" type="scholion">
@@ -107,6 +120,192 @@
                         </div>
                         <div type="comment">
                             <p>ἐν τοῖς εἰκαιοτέροις <q>ἀθανάτοισι θεοῖσι</q>.</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.54</p>
+                        </div>
+                        <div type="comment">
+                            <p>εν αλλῳ <q>κέλευσον</q>
+                            </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.69</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> οὐχ Ὁμηρικῶς ἡ παλίωξις ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.71</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                <q><placeName n="urn:cite:hmt:place.place6">Ί̈λιον</placeName>
+                                    ἐκπέρσωσιν</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.72</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                <choice>
+                                    <abbr>χω</abbr>
+                                    <expan>χωρὶς</expan>
+                                </choice> τοῦ <rs type="waw">σ</rs>
+                                <q>παύω</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
                         </div>
                     </div>
                 </body>
