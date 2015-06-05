@@ -18,7 +18,7 @@
         <group n="12">
             <text n="msAim">
                 <body>
-
+<!-- 191r -->
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -39,6 +39,8 @@
                             </p>
                         </div>
                     </div>
+                    
+                    <!-- 191v -->
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.2" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -122,6 +124,7 @@
                             <p>ἐν τοῖς εἰκαιοτέροις <q>ἀθανάτοισι θεοῖσι</q>.</p>
                         </div>
                     </div>
+                    <!-- folio 192r -->
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.8" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -187,7 +190,10 @@
                                 <q>παύω</q></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                    
+                    <!-- folio 192v -->
+                    
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.12" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -198,7 +204,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.13" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -209,7 +215,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.14" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -220,7 +226,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.15" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -231,6 +237,8 @@
                             <p/>
                         </div>
                     </div>
+                    
+                    <!-- folio 193r -->
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:15.X" type="scholion">
                         <div type="lemma">
                             <p/>

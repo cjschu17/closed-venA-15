@@ -18,7 +18,7 @@
         <group n="12">
             <text n="msAext">
                 <body>
-
+<!-- folio 191r -->
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -30,6 +30,8 @@
                             <p>ποσει</p>
                         </div>
                     </div>
+                    
+                    <!-- folio 191v -->
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.2" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -55,7 +57,7 @@
                             <p>βοῶπις</p>
                         </div>
                     </div>
-
+<!-- folio 192r -->
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.4" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -111,7 +113,8 @@
                                 </choice></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.X" type="scholion">
+                    <!-- folio 192v -->
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.8" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -122,6 +125,7 @@
                             <p/>
                         </div>
                     </div>
+                    <!-- folio 193r -->
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.X" type="scholion">
                         <div type="lemma">
                             <p/>
