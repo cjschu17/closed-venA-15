@@ -140,7 +140,7 @@
                     </div>
                     <!-- folio 194v -->
                     <!-- folio 195r -->
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.10" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -151,7 +151,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.11" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -162,7 +162,10 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.X" type="scholion">
+                    <!-- folio 195v -->
+                    <!-- folio 196r -->
+                    <!-- folio 196v -->
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.12" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -173,6 +176,7 @@
                             <p/>
                         </div>
                     </div>
+                    <!-- folio 197r -->
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:15.X" type="scholion">
                         <div type="lemma">
                             <p/>
