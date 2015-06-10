@@ -1,16 +1,28 @@
 project.ext {
 
-  textInventory="/vagrant/venA-15/editions/inventory.xml"
-  textArchive="/vagrant/venA-15/editions"
+  textInventory="/vagrant/venA-15//editions/inventory.xml"
+  textArchive="/vagrant/venA-15//editions"
 
-  // Lists of index files to use in verification:
-  folioToImage = "/vagrant/venA-15/indices/venA-folioToImage.csv,/vagrant/venA-15/indices/upsilon-folioToImage.csv"
+    // Lists of index files to use in verification:
+    folioToImage = "/vagrant/venA-15//indices/venA-folioToImage.csv"
+
+    textToImage = "/vagrant/venA-15//indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/venA-15//indices/venA-textToFolio-Iliad.csv"
+
+    scholiaInventories = "/vagrant/venA-15//collections/venA-exterior.csv,/vagrant/venA-15//collections/venA-intermarginal.csv,/vagrant/venA-15//collections/venA-interior.csv,/vagrant/venA-15//collections/venA-mainScholia.csv,/vagrant/venA-15//collections/venA-interlinear.csv"
+
+    codexModel = "/vagrant/venA-15//collections/codexModels/venetusA.csv"
 
 
-  textToImage = "/vagrant/venA-15/indices/venA-textToImage-Iliad.csv,/vagrant/venA-15/indices/upsilon-textToImage-Iliad.csv"
 
-  textToFolio = "/vagrant/venA-15/indices/venA-textToFolio-Iliad.csv,/vagrant/venA-15/indices/upsilon-textToFolio-Iliad.csv"
-
-  scholiaInventories = "/vagrant/venA-15/collections/venA-exterior.csv,/vagrant/venA-15/collections/venA-intermarginal.csv,/vagrant/venA-15/collections/venA-interior.csv,/vagrant/venA-15/collections/venA-mainScholia.csv,/vagrant/venA-15/collections/venA-interlinear.csv,/vagrant/venA-15/collections/Upsilon-1-1-scholia.csv"
+    //   For concordion:
+   mdSrc = "specs/md"
     
+    htmlPreface = """
+<html xmlns:concordion="http://www.concordion.org/2007/concordion">
+<body>
+    """
+    htmlEnd = "</body>\n</html>\n"
+
+    tokenMap = [    "openex": "<div class='example'>", "closeex" : "</div>"]      
 }
