@@ -256,8 +256,9 @@
                     </div>
                     <!-- 201r -->
                     <!-- 201v -->
-                    <!--
-                    <div n="X" type="scholion">
+                    <!-- 202r -->
+                    
+                    <div n="19" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -268,7 +269,11 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <!-- 202v -->
+                    <!-- 203r -->
+                    <!-- 203v -->
+                   
+                    <div n="20" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -279,7 +284,10 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <!-- 204r -->
+                    <!-- 204v -->
+                    
+                    <div n="21" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -290,7 +298,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <div n="22" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -301,7 +309,8 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <!-- 205r -->
+                    <div n="23" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -312,7 +321,18 @@
                             <p/>
                         </div>
                     </div>
--->
+                    <!-- 205v -->
+                    <div n="24" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

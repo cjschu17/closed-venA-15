@@ -524,8 +524,8 @@
                         </div>
                     </div>
                     <!-- 201v -->
-                    <!--
-                    <div n="X" type="scholion">
+                    
+                    <div n="40" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -536,7 +536,9 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <!-- 202r -->
+                    
+                    <div n="41" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -547,7 +549,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <div n="42" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -558,7 +560,9 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <!-- 202v -->
+                    
+                    <div n="43" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -569,7 +573,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <div n="44" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -580,7 +584,9 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <!-- 203r -->
+                   
+                    <div n="45" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -591,7 +597,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="X" type="scholion">
+                    <div n="46" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -602,7 +608,138 @@
                             <p/>
                         </div>
                     </div>
-                    -->
+                    <!-- 203v -->
+                    
+                    <div n="47" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="48" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="49" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- 204r -->
+                    
+                    <div n="50" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="51" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- 204v -->
+                   
+                    <div n="52" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="53" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- 205r -->
+                   
+                    <div n="54" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="55" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="56" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- 205v -->
+                 
+                    <div n="57" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                   
                 </body>
             </text>
         </group>
