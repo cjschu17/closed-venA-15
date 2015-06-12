@@ -268,10 +268,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.104</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κατ ένια τῶν ὑπομνημάτων <q>ἀφρονέοντα</q> ⁑</p>
                         </div>
                     </div>
                     <div n="17" type="scholion">
@@ -279,10 +279,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.114</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> καὶ ἡ <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀριστχ</abbr>
+                                        <expan>Ἀριστάρχου</expan>
+                                    </choice></persName> καὶ αἱ πᾶσαι <q>επος ηύδα</q> οὐ
+                                    <q>προσηύδα</q> ⁑</p>
                         </div>
                     </div>
                     <div n="18" type="scholion">
@@ -290,10 +297,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.123</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δια τοῦ ετερου <rs type="waw">δ</rs> αἱ <persName
+                                    n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Αριστάρχου</expan>
+                                    </choice></persName> ⁑</p>
                         </div>
                     </div>
                     <!-- 193v -->

@@ -823,13 +823,33 @@
                     </div>
                     <div n="37" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὡς φάτο καί ρ’ ἵππους κέλετο <persName n="urn:cite:hmt:pers.pers481"
+                                    >Δεῖμόν</persName> τε <persName n="urn:cite:hmt:pers.pers482"
+                                    >Φοβον</persName> τε:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.119</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι ἀντι τοῦ <q><persName n="urn:cite:hmt:pers.pers481"
+                                        >Δήμω</persName></q> καὶ <q><persName
+                                        n="urn:cite:hmt:pers.pers482">Φόβῳ</persName></q>. καὶ ὅτι
+                                ἐντεῦθεν ἡ πλάνη ἡ τοῖς δεξαμένοις <persName
+                                    n="urn:cite:hmt:pers.pers481">Δεῖμον</persName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers482">Φόβον</persName> ἵππων ὀνόματα
+                                εἰσὶ δὲ <persName n="urn:cite:hmt:pers.pers83">Ἄρεως</persName> υἱοί
+                                ἐν ἄλλοις γὰρ ῥητῶς φησὶ. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.299</ref>
+                                    <q>τῷ δε <persName n="urn:cite:hmt:pers.pers482"
+                                            >Φόβος</persName> φίλος υἱός</q>
+                                </cit>, τὸ δὲ γενος τῆς ἀμφιβολίας ἐστιν εὑρεῖν καὶ ἀλλαχῇ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.118</ref>
+                                    <q>τὸν δέ τ' ἄνδρα ἑλεῖν καὶ εἰς ορμὴν ἔγχεος ἐλθεῖν</q>
+                                </cit>· καὶ ἐν <title type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
+                                        ><abbr>Οδ</abbr><expan>Ὀδυσσείᾳ</expan></title>. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.24</ref>
+                                    <q>αἰδὼς δ αῦ νέον ἄνδρα γεραίτερον ἐξερεεθαι</q>
+                                </cit> ὅπερ ἀγνοήσαντες τινὲς ἔγραψαν <q>νέῳ ἀνδρί</q> ⁑</p>
                         </div>
                     </div>
                     <!-- folio 193v -->

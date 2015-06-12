@@ -214,8 +214,9 @@
                             <p><choice>
                                     <abbr>ταυτ</abbr>
                                     <expan>ταὐτὰ</expan>
-                                </choice> ὁ <persName n="urn:cite:hmt:pers.pers175">Δίδυμος</persName> τῷ <persName
-                                    n="urn:cite:hmt:pers.pers163">Ἀριστονικῳ</persName>
+                                </choice> ὁ <persName n="urn:cite:hmt:pers.pers175"
+                                    >Δίδυμος</persName> τῷ <persName n="urn:cite:hmt:pers.pers163"
+                                    >Ἀριστονικῳ</persName>
                                 <choice>
                                     <abbr>λε</abbr>
                                     <expan>λέγει</expan>
@@ -234,10 +235,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.122</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἐν παραλλήλου ὡς ϊσοδυναμοῦντα τὸν, χόλον καὶ τὴν μηνιν
+                                ⁑</p>
                         </div>
                     </div>
 
