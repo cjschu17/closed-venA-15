@@ -193,10 +193,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.77</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> οὐδαμοῦ τὸν <persName n="urn:cite:hmt:pers.pers1"
+                                    >Αχιλλέα</persName> πτολίπορθον:</p>
                         </div>
                     </div>
                     <div n="13" type="scholion">
@@ -204,10 +208,22 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.86</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ταυτ</abbr>
+                                    <expan>ταὐτὰ</expan>
+                                </choice> ὁ <persName n="urn:cite:hmt:pers.pers175">Δίδυμος</persName> τῷ <persName
+                                    n="urn:cite:hmt:pers.pers163">Ἀριστονικῳ</persName>
+                                <choice>
+                                    <abbr>λε</abbr>
+                                    <expan>λέγει</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>πε</abbr>
+                                    <expan>περὶ</expan>
+                                </choice> τῆς γραφῆς τῆς <q>δέπασσι</q> ⁑</p>
                         </div>
                     </div>
 
@@ -400,7 +416,7 @@
                         </div>
                     </div>
                     <!-- folio 197v -->
-                   
+
                     <div n="30" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -424,7 +440,7 @@
                         </div>
                     </div>
                     <!-- folio 198r -->
-                 
+
                     <div n="32" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -448,7 +464,7 @@
                         </div>
                     </div>
                     <!-- folio 198v -->
-                   
+
                     <div n="34" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -472,7 +488,7 @@
                         </div>
                     </div>
                     <!-- 199r -->
-                   
+
                     <div n="36" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -497,7 +513,7 @@
                     </div>
                     <!-- 199v -->
                     <!-- 200r -->
-                   
+
                     <div n="38" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -511,7 +527,7 @@
                     </div>
                     <!-- 200v -->
                     <!-- 201r -->
-                   
+
                     <div n="39" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -524,7 +540,7 @@
                         </div>
                     </div>
                     <!-- 201v -->
-                    
+
                     <div n="40" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -537,7 +553,7 @@
                         </div>
                     </div>
                     <!-- 202r -->
-                    
+
                     <div n="41" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -561,7 +577,7 @@
                         </div>
                     </div>
                     <!-- 202v -->
-                    
+
                     <div n="43" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -585,7 +601,7 @@
                         </div>
                     </div>
                     <!-- 203r -->
-                   
+
                     <div n="45" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -609,7 +625,7 @@
                         </div>
                     </div>
                     <!-- 203v -->
-                    
+
                     <div n="47" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -644,7 +660,7 @@
                         </div>
                     </div>
                     <!-- 204r -->
-                    
+
                     <div n="50" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -668,7 +684,7 @@
                         </div>
                     </div>
                     <!-- 204v -->
-                   
+
                     <div n="52" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -692,7 +708,7 @@
                         </div>
                     </div>
                     <!-- 205r -->
-                   
+
                     <div n="54" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -727,7 +743,7 @@
                         </div>
                     </div>
                     <!-- 205v -->
-                 
+
                     <div n="57" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -739,7 +755,7 @@
                             <p/>
                         </div>
                     </div>
-                   
+
                 </body>
             </text>
         </group>

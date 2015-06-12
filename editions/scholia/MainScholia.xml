@@ -674,74 +674,99 @@
 
                     <div n="30" type="scholion">
                         <div type="lemma">
-                            <p><choice>
-                                    <orig>κῆρ</orig>
-                                    <reg>κήρ</reg>
-                                </choice> ἀπινύσσων</p>
+                            <p>πάντες ἀνήϊξαν:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.100</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.86</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> τὸ
-                                    <q>κῆρ</q> οὐδετέρως ἐκδέχεται καὶ μετοχὴν τὴν ἀπὸ τοῦ <rs
-                                    type="waw">α</rs> ἀρχομένην ἵνα τοιοῦτόν τι σημαίνῃ τὸ
-                                    <q>κῆρ</q> ἀσύνετος ὦν διδασκόμενος· καὶ ἐξ ἐκείνου τοῦ <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.342</ref>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:6.258</ref>
-                                    <q>δοκέεις δέ μοι οὐκ ἀπινύσσειν</q>
-                                </cit>· τούτῳ συγκατατίθεται καὶ ὁ <persName
-                                    n="urn:cite:hmt:pers.pers485"><choice>
-                                        <abbr>Ἀσκαλωνίτ</abbr>
-                                        <expan>Ἀσκαλωνίτης</expan>
-                                    </choice></persName> καὶ <persName n="urn:cite:hmt:pers.pers341"
-                                    >Ἀλεξίων</persName> καὶ σχεδὸν πάντες καὶ ἡμεῖς. εἰσὶ μέντοι, οἳ
-                                ἄλλους διέστειλαν οὓς ἐλέγχει ὁ <persName
-                                    n="urn:cite:hmt:pers.pers493">Ηρωδιανός</persName>
-                                <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName>
-                                <q>κῆρ απινύσκων</q>· διὰ τοῦ <rs type="waw">κ</rs> ὁ δὲ <persName
-                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> καὶ ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002"><choice>
-                                        <abbr>οδ</abbr>
-                                        <expan>Ὀδυσσείᾳ</expan>
-                                    </choice></title> διὰ των δύο <rs type="waw">σσ</rs>. <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.342</ref>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:6.258</ref>
-                                    <q>δοκέεις δέ μοι οὐκ ἀπινύσσειν</q>
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                σημειοῦται ὅτι <choice>
+                                    <sic>οὗτως</sic>
+                                    <corr>οὕτως</corr>
+                                </choice> μόνως γραπτέον <q>δεπάσσι</q>· φησὶ γοῦν ἐν τοῖς ἑξῆς <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:15.87-15.88</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers659">Θέμιστι</persName> δὲ
+                                        καλλιπαρήω δεκτο δέπας</q>
+                                </cit>, ἐν ενίοις δὲ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.203</ref>
+                                    <q>κάλεον τέ μιν εἰς ἓ ἕκαστος</q>
+                                </cit> οὐκέτι· ἰδίαν γὰρ ἔχει καθεδραν πῶς οὖν προς εαυτὸν ἕκαστος
+                                καλεῖ. ἐπι μὲν τῆς <persName n="urn:cite:hmt:pers.pers282"
+                                    >Ἴριδος</persName> ἁρμόζει τῆς προς τοὺς ἀνέμους παραγεγονυίας
+                                ἀλλα μὴν οὐδ' <q>ἐπέεσσι</q> γραπτέον ἐπιδίδωσι γὰρ ἡ <persName
+                                    n="urn:cite:hmt:pers.pers659">Θέμις</persName> αὐτῇ τὸ ποτήριον
+                                ὁ δε <rs type="ethnic" n="urn:cite:hmt:place.place70">Θρᾶξ</rs>
+                                <persName n="urn:cite:hmt:pers.pers211">Διονύσιος</persName>
+                                παρακεῖσθαι φασὶ τὸ σημεῖον ὅτι δια παντὸς τοὺς θεοὺς συνίστησι
+                                πίνοντας καὶ ταύτην ἀρίστην διαγωγὴν ἔχοντας προς τὸ ἐν <title><ref
+                                        type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
+                                        >Ὀδυσσείᾳ</ref></title>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.5-9.6</ref>
+                                    <q>οὐ γαρ ἔγωγε τι φημὶ τέλος χαριέστερον εἶναι. ἢ ὅτ ἂν
+                                        εὐφροσύνη μὲν ἔχῃ</q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="31" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οἷος ἐκείνου θυμὸς</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.94</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὸ <q>ὑπερφίαλος</q> νῦν μὲν ἐπι ψόγου ὁ ὑπέρσπονδος βέλτιον δὲ ὁ
+                                ὑπέρμετρος· ἐν ἄλλοις δὲ ἐν τάξει ἐγκωμιου <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.289</ref>
+                                    <q>οὐκ αγαπᾶς ὁ ἕκηλος ὑπερφιάλοισι μεθ' ἡμῖν</q>
+                                </cit> ἀντι τοῦ ἀγαθοῖς ⁑</p>
                         </div>
                     </div>
                     <div n="32" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οἷα <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> κακὰ ἔργα
+                                πιφαύσκεται, </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.97</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δύναται καὶ καθεαυτὸ τὸ ἡμιστίχιον ἀναγινώσκεσθαι ⁑</p>
                         </div>
                     </div>
-                    <div n="33" type="scholion">
+                    <div n="1000" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.97</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἵν ῇ θαυμαστικὸς ὁ λόγος. βέλτιον δε τὸ σύνηθες ὡς καὶ ἐπάνω <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:15.93-15.94</ref>
+                                    <q>οἶσθα καὶ αὐτῆ οἷος ἐκείνου θυμός</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="33" type="scholion">
+                        <div type="lemma">
+                            <p>οὔτε θεοῖς εἴπερ τις έτι νῦν <choice>
+                                    <abbr>δαίνυτ</abbr>
+                                    <expan>δαίνυται</expan>
+                                </choice> εὔφρων</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.99</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ νοῦς. οὐκέτι οἶμαι τὸν <persName n="urn:cite:hmt:pers.pers8"
+                                    >Δία</persName>· οὐδενὶ τῶν πάντων θεῶν ἠ ἀνθρώπων ϊλαρὸν
+                                ἔσεσθαι εἰ ἄρα καί τις ἐν τῷ παρόντι τῇ αὐτοῦ προσηνείᾳ εὐωχεῖται ἐν
+                                ἰλαρότητι ⁑</p>
                         </div>
                     </div>
 
