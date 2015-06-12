@@ -773,35 +773,52 @@
                     <!-- folio 193r -->
                     <div n="34" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ἡ δὲ γέλασσε χειλεσιν:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.101-15.103</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὗτος ὁ γελως <rs type="ethic" n="urn:cite:hmt:place.place437"
+                                    >Σαρδόνιος</rs> καλεῖται, ὅτ ἄν τις μὴ ἐκ διαθέσεως καὶ κρίσεως
+                                γελᾷ, οὗτος δέ ἐστιν ὁ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place437">Σαρδόνιος</rs> καλούμενος γέλως
+                                μετα δηχμοῦ πρὸς ὑπόκρισιν οὐ γὰρ γελᾷ. καὶ τὸν <persName
+                                    n="urn:cite:hmt:pers.pers83">Ἄρη</persName> δὲ ὑπομνήσκει τοῦ
+                                υἱοῦ φοβοῦσα ἵν' αὐτὸν ἀποστήσῃ, τῆς τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρώων</rs> συμμαχίας καὶ τοὺς
+                                ἄλλους θεούς ⁑</p>
                         </div>
                     </div>
                     <div n="35" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἠ ἔτι μιν μέμαμεν ἢ <choice>
+                                    <sic>ἐπεὶ</sic>
+                                    <corr>ἔπει</corr>
+                                </choice>. ἠὲ βίῃ·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.105-15.106</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔφαμεν τὸν <rs type="waw">η</rs> κατ αρχὴν ὄντα διαπορητικὸν
+                                περισπᾶσθαι ὥσπερ καὶ ἐνθάδε τοὺς μέντοι ἑξῆς ἐγκλιτέον ἐν τῇ
+                                συντάξει. εἰσὶ γὰρ ἤτοι διαζευκτικοὶ ἢ παραδιαζευκτικοὶ ὡς τὸ <q>ἢ
+                                    ἔπει ἢὲ βίῃ</q> ⁑</p>
                         </div>
                     </div>
                     <div n="36" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>μὴ νῦν μοι νεμεσήσετ' <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place45">Ὀλύμπια</rs>,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.116</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὗτoς ἐστιν ὁ ἀλλοπροσάλλος, οἱ γὰρ ἀδικήσαντες αὐτὸν ἦσαν οἱ <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> οἱ
+                                κατάρξαντες τοῦ ἀδικήματος ⁑</p>
                         </div>
                     </div>
                     <div n="37" type="scholion">
