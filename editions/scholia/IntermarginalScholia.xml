@@ -313,10 +313,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.134</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν ἄλλῳ <q><choice>
+                                        <abbr>πημ</abbr>
+                                        <expan>πῆμα</expan>
+                                    </choice> φυτεῦσαι</q>:</p>
                         </div>
                     </div>
                     <div n="20" type="scholion">
@@ -324,10 +327,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.139</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>
+                                <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr/>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> καὶ <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφ</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName> <q>τοῦ δε</q></p>
                         </div>
                     </div>
                     <!-- 194r -->

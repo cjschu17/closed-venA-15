@@ -253,10 +253,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.147-15.148</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> προηθέτει
+                                ⁑</p>
                         </div>
                     </div>
                     <!-- folio 194r -->
