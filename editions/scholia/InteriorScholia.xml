@@ -326,7 +326,7 @@
                                     </choice></persName> γράφει <q>ἐξ <placeName
                                         n="urn:cite:hmt:place.place89">Ιδεων</placeName></q> ἁρμόζει
                                 δὲ μᾶλλον <q>κατ <placeName n="urn:cite:hmt:place.place89"
-                                    >Ιδέων</placeName></q>. κατάβασιν γὰρ δηλοῖ ⁑</p>
+                                        >Ιδέων</placeName></q>. κατάβασιν γὰρ δηλοῖ ⁑</p>
                         </div>
                     </div>
                     <!-- folio 194v -->
@@ -335,10 +335,23 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.178</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> πτῶσις ἤλλακται <q>ει δε αὐτῷ</q> ἀντι τοῦ <q>ει δε
+                                    αὐτοῦ</q> τοῖς έπεσι τῷ <choice>
+                                    <abbr>γρ</abbr>
+                                    <expan>γράφεται</expan>
+                                </choice>
+                                <q>οἱ</q>
+                                <q>αυτω</q>
+                                <choice>
+                                    <abbr>εστ</abbr>
+                                    <expan>ἐστι</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="21" type="scholion">
@@ -346,10 +359,19 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.189</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> τὸ <q><choice>
+                                    <abbr>παντ</abbr>
+                                    <expan>πάντα</expan>
+                                </choice></q> κατα παρολκήν ὡς <cit>
+                                    <q>οἱ δ' εννεα πάντες ἀνεσταν</q>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.161</ref>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <!-- folio 195r -->
