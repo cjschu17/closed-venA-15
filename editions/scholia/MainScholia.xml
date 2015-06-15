@@ -1140,7 +1140,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.171</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ <q>ψυχρὴ</q> ἑκατέρῳ δύναται προσδίδοσθαι. ἤτοι γὰρ <q>ψυχρὴ</q> <choice>
+                            <p>τὸ <q>ψυχρὴ</q> ἑκατέρῳ δύναται προσδίδοσθαι. ἤτοι γὰρ <q>ψυχρὴ</q>
+                                <choice>
                                     <abbr>υπ</abbr>
                                     <expan>ὑπὸ</expan>
                                 </choice> βορέου, ἠ πτῆται ὑπο βορέου ⁑</p>
@@ -1149,46 +1150,106 @@
                     <!-- folio 194v -->
                     <div n="54" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ῗσόν οἱ φᾶσθαι:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.183</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὸ <q>στυγέουσιν</q> ἀπο μιᾶς ἀρχῆς ἐν διαφορᾷ μετάγεται, νῦν μὲν
+                                    <q>δεδίασιν</q> ὅτ ἂν δὲ εἴπῃ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.65</ref>
+                                    <q>σμερδαλέ' εὑρόεντα τά τε στυγέουσι θεοί περ</q>
+                                </cit>. ἀντι τοῦ <q>μισοῦσιν</q>· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.694</ref>
+                                    <q>κατα δ' έστυγε μῦθον ἀκούσας</q>
+                                </cit>, <q>κατεστύγνασεν</q>, ἀπο τῆς <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ πρόσωπον στυγνότητος ⁑</p>
                         </div>
                     </div>
                     <div n="55" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τρεῖς γάρ τ' ἐκ <persName n="urn:cite:hmt:pers.pers139"
+                                    >Κρόνου</persName></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.186</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δια τῶν δύο <rs type="waw">κκ</rs> γράφοντος <persName
+                                    n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName>
+                                <q>ἐκ <persName n="urn:cite:hmt:pers.pers139">Κρόνου</persName></q>.
+                                οὐ κατεπείγει διαστέλλειν ὥς τινες ἀξιοῦσιν ἐπι τὸ <q>εἰμέν</q>· μὴ
+                                κειμένης γὰρ τῆς προθέσεως, ὁμολογοῦμεν ὡς ἀμφίβολος ἢν ἡ προφορὰ
+                                συναπτομένη, νῦν δὲ οὐ κατεπείγει ⁑</p>
                         </div>
                     </div>
                     <div n="56" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers139">Κρόνος</persName> χρησμὸν
+                                λαβὼν:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.229</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι ὀ ΐδιος αὐτὸν τῆς βασιλείας μεταστήσει υἱὸς , τὰ γεννώμενα
+                                κατέπινεν <persName n="urn:cite:hmt:pers.pers208">Ῥέα</persName> δὲ
+                                τεκοῦσα <persName n="urn:cite:hmt:pers.pers8">Δία</persName>,
+                                    <persName n="urn:cite:hmt:pers.pers139">Κρόνῳ</persName> μὲν
+                                αὐτοῦ λίθον σπαργανώσασα ἔδωκε <choice>
+                                    <abbr>κατπιεῖν</abbr>
+                                    <expan>καταπιεῖν</expan>
+                                </choice>· τὸ δὲ παιδίον εἰς <placeName
+                                    n="urn:cite:hmt:place.place21">Κρήτην</placeName> διακομίσασα,
+                                ἔδωκε τρέφειν <persName n="urn:cite:hmt:pers.pers659"
+                                    >Θέμοδι</persName> καὶ <persName n="urn:cite:hmt:pers.pers134"
+                                    >Ἀμαλθίᾳ</persName> ἡ ἢν <choice>
+                                    <sic>αἶξ</sic>
+                                    <corr>αἴξ</corr>
+                                </choice>, ταύτην οἱ <persName n="urn:cite:hmt:pers.pers37"
+                                    >Τιτᾶνες</persName> ὁποτ ἂν ἐθεάσαντο ἐφοβοῦντο· αὕτη δὲ τοὺς
+                                αὑτῆς μαζοὺς ὑπέκουσα ἔτρεφε τὸ παιδίον. αὐξηθεὶς δὲ ὁ <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> μετέστησε τῆς
+                                βασιλείας τὸν <choice>
+                                    <abbr>πρα</abbr>
+                                    <expan>πατέρα</expan>
+                                </choice>. πολεμούντων δὲ αὐτὸν τῶν <persName
+                                    n="urn:cite:hmt:pers.pers37">Τιτάνων</persName>, <persName
+                                    n="urn:cite:hmt:pers.pers659">Θέμις</persName> συνεβούλευσε, τῷ
+                                τῆς <persName n="urn:cite:hmt:pers.pers134">Ἀμαλθίας</persName>
+                                δέρματι σκεπαστηρίῳ χρήσασθαι εἶναι γὰρ αὐτὴν ἀεί φόβητρον, πεισθεὶς
+                                δὲ ὁ <persName n="urn:cite:hmt:pers.pers8">Ζεῦς</persName> ἐποίησεν
+                                καὶ τοὺς <persName n="urn:cite:hmt:pers.pers37">Τιτᾶνας</persName>
+                                ἐνίκησεν· ἐντεῦθεν αὐτὸν φησὶν αἰγήοχον προσαγορευθῆναι ⁑</p>
                         </div>
                     </div>
                     <div n="57" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>Ῥέα:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.187</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οἱ μὲν ἐκτείνουσι τὸ <rs type="waw">α</rs>, ἐπι δὲ τοῦ <choice>
+                                    <abbr>ἐπιρρήματ</abbr>
+                                    <expan>ἐπιρρήματος</expan>
+                                </choice> συστέλλουσιν οἱ δὲ φασὶ δεῖ συστέλλειν ἵνα δάκτυλος
+                                γένηται ὡς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.237</ref>
+                                    <q>πὺξ ἀγαθὸν Πολυδεύκεα</q>
+                                </cit>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.347</ref>
+                                    <q>ἀνδρόμεα κρέα</q>
+                                </cit>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.207</ref>
+                                    <q>εἴσατο τεύχεα</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="58" type="scholion">
