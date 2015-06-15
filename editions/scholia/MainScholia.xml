@@ -1228,7 +1228,7 @@
                     </div>
                     <div n="57" type="scholion">
                         <div type="lemma">
-                            <p>Ῥέα:</p>
+                            <p><persName n="urn:cite:hmt:pers.pers208">Ῥέα</persName>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.187</p>
@@ -1240,7 +1240,7 @@
                                 </choice> συστέλλουσιν οἱ δὲ φασὶ δεῖ συστέλλειν ἵνα δάκτυλος
                                 γένηται ὡς τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.237</ref>
-                                    <q>πὺξ ἀγαθὸν Πολυδεύκεα</q>
+                                    <q>πὺξ ἀγαθὸν <persName n="urn:cite:hmt:pers.pers399">Πολυδεύκεα</persName></q>
                                 </cit>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.347</ref>
