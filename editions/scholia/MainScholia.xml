@@ -1240,7 +1240,8 @@
                                 </choice> συστέλλουσιν οἱ δὲ φασὶ δεῖ συστέλλειν ἵνα δάκτυλος
                                 γένηται ὡς τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.237</ref>
-                                    <q>πὺξ ἀγαθὸν <persName n="urn:cite:hmt:pers.pers399">Πολυδεύκεα</persName></q>
+                                    <q>πὺξ ἀγαθὸν <persName n="urn:cite:hmt:pers.pers399"
+                                            >Πολυδεύκεα</persName></q>
                                 </cit>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.347</ref>
@@ -1254,13 +1255,21 @@
                     </div>
                     <div n="58" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τριχθὰ δὲ πάντα δέδασται·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.189</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>φυσικὴ φαίνεται διάταξις γεγενημένη· ὁ μὲν γὰρ τὸ ζῆν παρεχόμενος
+                                    <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ὠνόμασται·
+                                ὁ δὲ τὴν ὑγρὰν οὐσίαν ἀπο τῆς πόσεως <persName
+                                    n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName>, <persName
+                                    n="urn:cite:hmt:pers.pers201">Ἀΐδης</persName> δὲ ὁ θάνατος παρα
+                                τὸ σκοτεινὸν καὶ ἀειδὲς τῆς τῶν <choice>
+                                    <abbr>ἀνων</abbr>
+                                    <expan>ἀνθρώπων</expan>
+                                </choice> ἀπωλείας ⁑ </p>
                         </div>
                     </div>
                     <div n="59" type="scholion">
@@ -1268,21 +1277,65 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.189</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πῶς δὲ φησὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.193</ref>
+                                    <q>γαῖα δ έτι ξυνὴ καὶ μακρὸς <placeName
+                                            n="urn:cite:hmt:place.place45">Ὄλυμπος</placeName></q>
+                                </cit>, <persName n="urn:cite:hmt:pers.pers667">Κράτης</persName> ἐν
+                                δευτέρῳ <title>Ὁμηρικῶν</title> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers1001">Στησίμβροτος</persName>
+                                <q>πάντα</q> οὕτως <q>δέδασται</q>· ⁑</p>
                         </div>
                     </div>
                     <div n="60" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>γαῖα δ' έτι ξυνὴ.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.193</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κοινὴ ὅλων τῶν στοιχείων ἡ γῆ καθ ὅτι ἐν αυτῆ εὑρίσκεται καὶ τὰ λοιπὰ
+                                τρία στοιχεῖα· τὸ γὰρ ὕδωρ αὐτῇ συνεσφαίρωται· καὶ πυρὸς ἀναδόσεις
+                                περι αυτὴν γίγνονται ὥσπερ κατα τὴν <placeName
+                                    n="urn:cite:hmt:place.place438">Αίτνην</placeName> ἐν <placeName
+                                    n="urn:cite:hmt:place.place109">Σικελια</placeName> καὶ περὶ
+                                τοὺς <persName n="urn:cite:hmt:pers.pers192">Ἡφαίστου</persName>
+                                κρητηρας· ὁμοίως δὲ καὶ περι <placeName
+                                    n="urn:cite:hmt:place.place439">Κέραγον</placeName>
+                                <placeName n="urn:cite:hmt:place.place75">Λυκιας</placeName> καὶ ὅσα
+                                τοιαῦτα· ὁμοίως δὲ καὶ ὁ αήρ περι <choice>
+                                    <sic>αυτὴν</sic>
+                                    <corr>αυτήν</corr>
+                                </choice> ἐστι· καλῶς δε καὶ τὸν <placeName
+                                    n="urn:cite:hmt:place.place45">Όλυμπον</placeName> κοινὸν φησὶν
+                                ἐπεὶ καὶ ὁ <choice>
+                                    <abbr>οὐνος</abbr>
+                                    <expan>οὐρανος</expan>
+                                </choice> τὴν γένεσιν ἐκ τῶν τεσσάρων κέκτηται στοιχείων. ἡ διπλῆ δὲ
+                                ὅτι συναφὴς τῇ γῇ ὁ <placeName n="urn:cite:hmt:place.place45"
+                                    >Ὄλυμπος</placeName> ὡς ἂν όρος, τὸ δὲ όμοιον πεποίηκε καὶ ἐν
+                                        <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                                            <abbr>Οδ</abbr>
+                                            <expan>Ὀδυσσείᾳ</expan>
+                                        </choice></ref></title>. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.21</ref>
+                                    <q>ναῖετ’ ἀνα δ’ <placeName n="urn:cite:hmt:place.place63"
+                                            >Ἰ̈θάκην</placeName> εὐδείελον ἐν δ' όρος αὐτῆ</q>
+                                </cit> κεχώρηκε γὰρ τὸ ὄρος τῆς <placeName
+                                    n="urn:cite:hmt:place.place63">Ἰθακης</placeName> οὐχ ὡς μη ὂν
+                                ἐπ αυτῆς καθάπερ καὶ τὸν <placeName n="urn:cite:hmt:place.place45"
+                                    >Όλυμπον</placeName> ἐπίγειον ὄντα τῆς γῆς· εἰ γὰρ ὁ αὐτὸς τῷ <choice>
+                                    <abbr>ουνω</abbr>
+                                    <expan>οὐρανῷ</expan>
+                                </choice> ἠ μέρος <choice>
+                                    <abbr>ἐπουνιον</abbr>
+                                    <expan>ἐπουράνιον</expan>
+                                </choice>, οὐκ ἂν κοινός ἀλλ' ἴδιος τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers8">Διός</persName> ⁑ </p>
                         </div>
                     </div>
                     <div n="61" type="scholion">
