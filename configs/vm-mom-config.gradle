@@ -1,17 +1,18 @@
 project.ext {
 
-  textInventory="/vagrant/venA-15//editions/inventory.xml"
-  textArchive="/vagrant/venA-15//editions"
+  textInventory="/vagrant/venA-15/editions/inventory.xml"
+  textArchive="/vagrant/venA-15/editions"
+  invSchema="/vagrant/venA-15/editions/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
-    folioToImage = "/vagrant/venA-15//indices/venA-folioToImage.csv"
+    folioToImage = "/vagrant/venA-15/indices/venA-folioToImage.csv"
 
-    textToImage = "/vagrant/venA-15//indices/venA-textToImage-Iliad.csv"
-    textToFolio = "/vagrant/venA-15//indices/venA-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/venA-15/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/venA-15/indices/venA-textToFolio-Iliad.csv"
 
-    scholiaInventories = "/vagrant/venA-15//collections/venA-exterior.csv,/vagrant/venA-15//collections/venA-intermarginal.csv,/vagrant/venA-15//collections/venA-interior.csv,/vagrant/venA-15//collections/venA-mainScholia.csv,/vagrant/venA-15//collections/venA-interlinear.csv"
+    scholiaInventories = "/vagrant/venA-15/collections/venA-exterior.csv,/vagrant/venA-15/collections/venA-intermarginal.csv,/vagrant/venA-15/collections/venA-interior.csv,/vagrant/venA-15/collections/venA-mainScholia.csv,/vagrant/venA-15/collections/venA-interlinear.csv"
 
-    codexModel = "/vagrant/venA-15//collections/codexModels/venetusA.csv"
+    codexModel = "/vagrant/venA-15/collections/codexModels/venetusA.csv"
 
 
 
