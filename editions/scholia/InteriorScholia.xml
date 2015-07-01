@@ -451,7 +451,8 @@
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀρισταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
-                                    </choice></persName> <q>ἐσσεύαντο</q> δια τοῦ <rs type="waw">α</rs> καὶ ἅπασαι ⁑</p>
+                                    </choice></persName>
+                                <q>ἐσσεύαντο</q> δια τοῦ <rs type="waw">α</rs> καὶ ἅπασαι ⁑</p>
                         </div>
                     </div>
                     <!-- folio 196v -->
@@ -461,10 +462,19 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.301</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> καὶ <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Αριστοφα</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName>
+                                <q><persName n="urn:cite:hmt:pers.pers281"><persName
+                                            n="urn:cite:hmt:pers.pers127"
+                                        >Αἴαντε</persName></persName></q> δυϊκῶς ⁑</p>
                         </div>
                     </div>
                     <div n="28" type="scholion">
@@ -472,10 +482,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.308-15.309</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>διασταλτέον καθ ὲν ἔμφασις γὰρ μαλλον.</p>
                         </div>
                     </div>
                     <div n="29" type="scholion">
@@ -483,10 +493,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.320</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> προπερισπᾷ <q>κατενῶπα</q> ⁑</p>
                         </div>
                     </div>
                     <!-- folio 197v -->
