@@ -598,9 +598,9 @@
                                 <persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀριστ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
-                                    </choice></persName> δια τοῦ <rs type="waw">ε</rs> <q>εἰ ἀγείρετο</q>
-                                παρατατικῶς. ἄλλοι δὲ <q>ἐσ ἀγείρατο</q> δια τοῦ <rs type="waw"
-                                    >α</rs> ⁑</p>
+                                    </choice></persName> δια τοῦ <rs type="waw">ε</rs>
+                                <q>εἰ ἀγείρετο</q> παρατατικῶς. ἄλλοι δὲ <q>ἐσ ἀγείρατο</q> δια τοῦ
+                                    <rs type="waw">α</rs> ⁑</p>
                         </div>
                     </div>
                     <!-- folio 196r -->
@@ -621,10 +621,16 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.288</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> τὸ <q>θὴν</q> <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <q>ποῦ</q> ⁑</p>
                         </div>
                     </div>
                     <div n="39" type="scholion">
@@ -632,10 +638,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.293</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><abbr>οτ</abbr><expan>ὅτι</expan> <q>πρόμος</q> σαφῶς ὁ πρόμαχος ⁑</p>
                         </div>
                     </div>
                     <div n="40" type="scholion">
@@ -643,10 +649,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.297</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γράφεται καὶ <q>εί κεν</q>·</p>
                         </div>
                     </div>
                     <div n="41" type="scholion">
@@ -654,10 +660,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.300</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τῶ <q>θυμῶ</q> ἑκατέροις δύναται προς δίδοσθαι ⁑</p>
                         </div>
                     </div>
                     <!-- folio 197r -->
