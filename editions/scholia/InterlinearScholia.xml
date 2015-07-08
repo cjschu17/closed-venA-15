@@ -284,10 +284,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X@ἔβαινον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ησαν<p/>
                         </div>
                     </div>
                     <!-- 199r -->
@@ -297,10 +297,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X@εείσατο</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐπῆλθεν</p>
                         </div>
                     </div>
                     <!-- 199v -->
@@ -310,10 +310,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X@κατέκτα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ολυκόφρων</p>
                         </div>
                     </div>
                     <!-- 200r -->
@@ -326,7 +326,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p></p>
                         </div>
                     </div>
                     <!-- 200v -->
