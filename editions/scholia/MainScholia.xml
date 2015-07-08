@@ -1672,43 +1672,79 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.245</p>
                         </div>
                         <div type="comment">
-                            <p>δασυντέον τὸ <q>ἧσαι</q> προείρηται δὲ περὶ τούτου τὸ δὲ <q>ὀλίγηπελέων</q> ἕν
-                                ἐστιν ὅμοιον τῷ <q>ὀλιγοδρανέων</q>, τὸ δὲ ῆ πού τί σε, ὁ ῆ διαπορητικός
-                                ἐστι διὸ περισπαστέον ⁑</p>
+                            <p>δασυντέον τὸ <q>ἧσαι</q> προείρηται δὲ περὶ τούτου τὸ δὲ
+                                    <q>ὀλίγηπελέων</q> ἕν ἐστιν ὅμοιον τῷ <q>ὀλιγοδρανέων</q>, τὸ δὲ
+                                ῆ πού τί σε, ὁ ῆ διαπορητικός ἐστι διὸ περισπαστέον ⁑</p>
                         </div>
                     </div>
                     <!-- folio 196r -->
                     <div n="78" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἥματι τῷ δ' όψεσθαι:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.252</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <q>ἄϊον</q> ἀντι τοῦ <q>ἐπησθόμην</q> τοῦτο δέ ἐστι τῆς ψυχῆς μου
+                                ήψατο. καὶ ἐν ἄλλοις <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.532</ref>
+                                    <q>τοὶ δὲ πληγῆς ἀΐοντες</q>
+                                </cit> ἐπαισθόμενοι τῆς πληγῆς τῷ εἴδει τὸ γένος ⁑</p>
                         </div>
                     </div>
                     <div n="79" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>χρυσάορον,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.256</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἤτοι χρυσοφάσγανον ἠ χρυσοῦν τὸν ἀορτῆρα τῆς φαρέτρας ἔχοντα ἢ τῆς
+                                κιθάρας οὐκέτι δὲ τοῦ ξίφους. ἁγνὸς γὰρ ὁ <choice>
+                                    <abbr>θς</abbr>
+                                    <expan>θεός</expan>
+                                </choice> καὶ <persName n="urn:cite:hmt:pers.pers5"
+                                    >Πίνδαρος</persName>
+                                <q>χρυσάορα <persName n="urn:cite:hmt:pers.pers544"
+                                    >Ὀρφέα</persName></q> φασὶ τινὲς δὲ χρυσοῦν ξίφος ἔχοντα·
+                                    <persName n="urn:cite:hmt:pers.pers104">Ἑρμῆς</persName> ὁ
+                                    <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers461">Μαίας</persName> τῆς
+                                    <persName n="urn:cite:hmt:pers.pers462">Ἄτλαντος</persName> εὗρε
+                                λύραν. καὶ τοὺς <persName n="urn:cite:hmt:pers.pers40"><choice>
+                                        <abbr>Ἀπόλλω</abbr>
+                                        <expan>Ἀπόλλωνος</expan>
+                                    </choice></persName> βόας κλέψας εὑρεθη ὑπο τοῦ <choice>
+                                    <abbr>θυ</abbr>
+                                    <expan>θεοῦ</expan>
+                                </choice> δια τῆς μαντικῆς, ἀπειλουμένου δὲ τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers40">Ἀπόλλωνος</persName> ἔκλεψεν αὐτοῦ
+                                καὶ τὰ ἐπι τῶν ὤμων τόξα· μειδιάσας δὲ ὁ <choice>
+                                    <abbr>θς</abbr>
+                                    <expan>θεός</expan>
+                                </choice>, ἔδωκεν αὐτῷ τὴν μαντικὴν ῥάβδον ἀφ ῆς καὶ χρυσόρραπις ὁ
+                                    <persName n="urn:cite:hmt:pers.pers104">Ἑρμῆς</persName>
+                                προσηγορεύθη. ἔλαβεν δὲ παρ αυτοῦ τὴν λύραν ὅθεν καὶ
+                                        <w>χρυσ<unclear>αό</unclear>ρ</w> ὠνομάσθη ἀπο τοῦ τῆς
+                                κιθάρας ἀορτῆρος ⁑</p>
                         </div>
                     </div>
                     <div n="80" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ακοστήσας ἐπι φάτνη:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.263-15.264</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ <q>επι φάτνη</q> δύναται καὶ τοῖς ἠγουμένοις καὶ τοῖς ἑπομένοις
+                                συντάττεσθαι ἵν' ᾖ τὸν <q>ἐπι φάτνῃ</q>
+                                <choice>
+                                    <abbr>συνδ</abbr>
+                                    <expan>σύνδεσμον</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="81" type="scholion">
@@ -1716,7 +1752,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.265</p>
                         </div>
                         <div type="comment">
                             <p/>
