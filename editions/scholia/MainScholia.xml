@@ -76,7 +76,8 @@
                         <div type="comment">
                             <p> ὁμοίως τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:12.14</ref>
-                                    <q>πολλοὶ δ’ <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ’ ἐλίποντο·</q>
+                                    <q>πολλοὶ δ’ <rs type="ethnic" n="urn:cite:hmt:place.place114"
+                                            >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ’ ἐλίποντο·</q>
                                 </cit> καὶ τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg002:18.68</ref>
                                     <q>φάνεν δέ οἱ εὑρέες ὤμοι</q>
@@ -208,7 +209,8 @@
                                 συγκάμνοντας αὐτὸς τὲ ὁ ποιητής ἔκλινε τὸ ῥῆμα τοῦτο τριχῶς· πῆ μὲν
                                 κοινῶς εἰπὼν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.153</ref>
-                                    <q>τοῖοι δ' ἄρα <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἡγήτορες ῆν τῶν ἐπι πύργων</q>
+                                    <q>τοῖοι δ' ἄρα <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                            >Τρώων</rs> ἡγήτορες ῆν τῶν ἐπι πύργων</q>
                                 </cit> πῆ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place79"
                                     >Ϊωνικῶς</rs>
                                 <cit>
@@ -333,7 +335,8 @@
                                 </choice>
                                 <num value="2">β</num> ἀόριστος. ταὐτὸν δὲ λέγομεν καὶ περὶ τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.417</ref>
-                                    <q>οῦ δε κεν κακὸν οἶτον <sic>ὄλῃαι</sic> </q>
+                                    <q>οῦ δε κεν κακὸν οἶτον <sic>ὄλῃαι</sic>
+                                    </q>
                                 </cit> καὶ γὰρ <sic>τούτο</sic> μέσου δευτέρου ἀορίστου:</p>
                         </div>
                     </div>
@@ -354,20 +357,19 @@
                                     <persName n="urn:cite:hmt:pers.pers116">Ἡραν</persName> ὁ
                                     <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δια θνητὸν
                                     <persName n="urn:cite:hmt:pers.pers71">Ἡρακλέα</persName>. φὴσι
-                                γὰρ <q>ἢ οὐ μέμνη ὅτε τ' εκρεμω</q>· ῥητέον δὲ ὅτι φιλοσοφεῖ <persName
-                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> μυθικῶς γὰρ
-                                    <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἐνταυθα ὁ
+                                γὰρ <q>ἢ οὐ μέμνη ὅτε τ' εκρεμω</q>· ῥητέον δὲ ὅτι φιλοσοφεῖ
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> μυθικῶς
+                                γὰρ <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἐνταυθα ὁ
                                 αἰθήρ <choice>
                                     <abbr>ουρου</abbr>
                                     <expan>οὐρανοῦ</expan>
-                                </choice> τοῦ περὶ τὸν ἀερα δεσμος ἐστὶ ὁ <sic>ἄγων</sic> τὰ ὑγρὰ καὶ ἐξ αυτοῦ
-                                δεσμεύων τὰ παντα· μετ αυτὸν δε ἐστὶν. ἀὴρ μέσος γῆς καὶ ἀερος. ὅ
-                                δεῖ νοεῖν ἡμᾶς τὴν <persName n="urn:cite:hmt:pers.pers116"
-                                    >Ἡρὰν</persName>
+                                </choice> τοῦ περὶ τὸν ἀερα δεσμος ἐστὶ ὁ <sic>ἄγων</sic> τὰ ὑγρὰ
+                                καὶ ἐξ αυτοῦ δεσμεύων τὰ παντα· μετ αυτὸν δε ἐστὶν. ἀὴρ μέσος γῆς
+                                καὶ ἀερος. ὅ δεῖ νοεῖν ἡμᾶς τὴν <persName
+                                    n="urn:cite:hmt:pers.pers116">Ἡρὰν</persName>
                                 <sic>ὑπάρχεῖν</sic> τοῦ δ ἀέρος ἐκκρέμαται ὕδωρ τὲ καὶ γῆ οὗς δῆ νῦν
                                 ἄκμονας λέγει παρα τὸ ἀκοπίατα εῖναι τὰ στοιχεῖα· καλῶς οὖν οὐ
                                 δύναται οἱ θεοὶ τὸν δεσμὸν λῦσαι· ἰσχὺς γὰρ τῶν όλων τὸ συνδεδέσθαι.
-
                                 ἡ διπλῆ δὲ ὅτι ἐκ <choice>
                                     <sic>δῦειν</sic>
                                     <corr>δυεῖν</corr>
@@ -1605,53 +1607,74 @@
                                 προηγεῖται τῆς αὐτός ἀντωνυμίας κατὰ δοτικὴν πτῶσιν ὀρθοτονεῖσθαι
                                 θέλει εἴτε εἰς ἁπλὴν εἴη ἡ μετάληψις εἴτε καὶ εἰς σύνθετον διὸ
                                         <sic><sic>μεμπτπτον</sic><corr>μεμπτὲον</corr></sic><corr>μεμπτέον</corr>
-                                ἐκείνην τὴν ἀνάγνωσιν, “<cit><ref type="urn"></ref><q>ἀλλά οἱ αὐτῷ Ζεὺς ὀλέσσῃ</q></cit>” (δ 667-8) ἐχρῆν
-                                γὰρ δια τὴν ἐπιφερομένην ἀντιδιαστολὴν κατ ορθὸν τόνον
+                                ἐκείνην τὴν ἀνάγνωσιν, <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg002:4.667-4.668</ref>
+                                    <q>ἀλλά οἱ αὐτῷ <persName n="urn:cite:hmt:pers.pers8"
+                                            >Ζεὺς</persName> ὀλέσσῃ</q>
+                                </cit> ἐχρῆν γὰρ δια τὴν ἐπιφερομένην ἀντιδιαστολὴν κατ ορθὸν τόνον
                                 ἀναγινώσκεσθαι ⁑</p>
                         </div>
                     </div>
                     <div n="74" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τῇ μάλ' ἐπισσείων:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.230</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><q>φοβέειν ἥρωας</q> καλεῖ καὶ οὐ μόνον τοὺς βασιλέας ὡς <persName
+                                    n="urn:cite:hmt:pers.pers576">Ἵστρος</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="75" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>σοὶ δ' αὐτῷ μελέτῳ·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.231</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀπο τούτου ἕως τοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.235</ref>
+                                    <q>ὥς κε καὶ αὖ τις <rs type="ethnic"
+                                            n="urn:cite:hmt:place.place67">Ἀχαιοὶ</rs></q>
+                                </cit> ἀθετοῦνται στίχοι πέντε ὅτι ἄκαιροι οἱ λόγοι ἐπι τοσοῦτον
+                                εγεῖραι τὸν <persName n="urn:cite:hmt:pers.pers172"
+                                    >Ἕκτορα</persName> ἕως ἐπι τὰς ναῦς φύγωσι. μετὰ δε ταῦτα ἐγὼ
+                                βουλεύσομαι ὡς δεῖ τοὺς φεύγοντας ἀναπλεῦσαι. καὶ ἄκαιρος ἡ
+                                πρόρρησις καὶ οὐ κεχαρισμένη τῷ <persName
+                                    n="urn:cite:hmt:pers.pers40">Ἀπόλλωνι</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="76" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἀμφι ἓ γινώσκων·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.241</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὀρθοτονητέον τὴν <rs type="waw">ε</rs> μεταλαμβάνεται γὰρ εἰς
+                                σύνθετον τὴν ἑαυτόν ἡ διπλῆ δέ ὅτι τὸ <q>γινώσκων</q> ἶσον ἐστι τὸ
+                                    <q>ἀναλεγόμενος</q> καὶ <q>ἀναμιμνησκόμενος</q> τῆς ἑκάστου
+                                ὄψεως οὐκ εκ προχείρου <q>γινώσκων</q> ἀλλ' οῖον ἀναγνωρίζων, καὶ
+                                κατ' ὀρθὸν τόνον ἀναγνωστέον <q>ἀμφι ἓ γινώσκων</q> ἔστι γὰρ εἰς
+                                ἑκάτερον ἑαυτοῦ μέρος σκοπῶν ⁑</p>
                         </div>
                     </div>
                     <div n="77" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἧσ' ὀλίγηπελέων.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.245</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δασυντέον τὸ <q>ἧσαι</q> προείρηται δὲ περὶ τούτου τὸ δὲ <q>ὀλίγηπελέων</q> ἕν
+                                ἐστιν ὅμοιον τῷ <q>ὀλιγοδρανέων</q>, τὸ δὲ ῆ πού τί σε, ὁ ῆ διαπορητικός
+                                ἐστι διὸ περισπαστέον ⁑</p>
                         </div>
                     </div>
                     <!-- folio 196r -->
