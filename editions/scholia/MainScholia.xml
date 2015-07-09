@@ -77,16 +77,10 @@
                             <p> ὁμοίως τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:12.14</ref>
 
-<<<<<<< HEAD
-                                    <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q> <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114"
-                                            >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q>
-=======
+
                                     <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114"
                                             >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q>
-                                    <q>πολλοὶ δ’ <rs type="ethnic" n="urn:cite:hmt:place.place114"
-                                            >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ’ ἐλίποντο·</q>
->>>>>>> 1b552e19e92ecf1dded2a930128426706c693e8d
-                                </cit> καὶ τὸ <cit>
+                             </cit> καὶ τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg002:18.68</ref>
                                     <q>φάνεν δέ οἱ εὑρέες ὤμοι</q>
                                 </cit> ἀνεγνώσθη <choice>
