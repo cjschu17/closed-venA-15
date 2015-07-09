@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
@@ -31,7 +31,7 @@
                         <div type="comment">
                             <p> ἡ ἀναφορὰ πρὸς τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.507</ref>
-                                    <q>πάπτηνεν δὲ ἕκαστος ὅπη φύγῃ αἰπῦν ὄλεθρον</q>
+                                    <q>πάπτηνεν δὲ ἕκαστος ὅπη φύγῃ <sic>αἰπῦν</sic> ὄλεθρον</q>
                                 </cit> ἐνθάδε γὰρ τὸ πέρας τῆς δίωξεως, πολλοὶ δὲ. τοῦ το δια μέσου
                                 ἄλλοι γὰρ ἔδαμεν, ἄλλοι δὲ ἔφευγον ⁑</p>
                         </div>
@@ -63,7 +63,7 @@
                         </div>
                         <div type="comment">
                             <p>ἡ <sic>διακοπῆ</sic> τῆς λέξεως τὸ <q>ταλαίπωρον</q> καὶ
-                                    <q>δυσδίοδευτον</q> ἐμφαίνει τῶν πολεμιων ⁑ </p>
+                                    <q>δυσδιόδευτον</q> ἐμφαίνει τῶν πολεμιων ⁑</p>
                         </div>
                     </div>
                     <div n="4" type="scholion">
@@ -77,8 +77,8 @@
                             <p> ὁμοίως τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:12.14</ref>
 
-                                    <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q> <q>πολλοὶ δ’ <rs type="ethnic" n="urn:cite:hmt:place.place114"
-                                            >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ’ ἐλίποντο·</q>
+                                    <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q> <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114"
+                                            >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q>
                                 </cit> καὶ τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg002:18.68</ref>
                                     <q>φάνεν δέ οἱ εὑρέες ὤμοι</q>
@@ -149,7 +149,7 @@
                                 </cit>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.146</ref>
-                                    <q>ἄστεος αἱὲν ὑπερ κατ <choice>
+                                    <q>ἄστεος <sic>αἱὲν</sic> ὑπερ κατ <choice>
                                             <corr>αμαξητόν</corr>
                                             <sic>αμαξητὸν</sic>
                                         </choice></q>
