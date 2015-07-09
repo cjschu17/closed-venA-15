@@ -77,7 +77,9 @@
                             <p> ὁμοίως τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:12.14</ref>
 
-                                    <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q> <q>πολλοὶ δ’ <rs type="ethnic" n="urn:cite:hmt:place.place114"
+                                    <q>πολλοὶ δ' <rs type="ethnic" n="urn:cite:hmt:place.place114"
+                                            >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ' ἐλίποντο·</q>
+                                    <q>πολλοὶ δ’ <rs type="ethnic" n="urn:cite:hmt:place.place114"
                                             >Ἀργείων</rs>, οἱ μὲν δάμεν, οἱ δ’ ἐλίποντο·</q>
                                 </cit> καὶ τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg002:18.68</ref>
@@ -1750,46 +1752,82 @@
                     </div>
                     <div n="81" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>εἰωθὼς λούεσθαι·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.265</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀπο τούτου ἕως τοῦ <cit>
+                                    <ref type="urn:cts:greekLit:tlg0012.tlg001:15.268"/>
+                                    <q>ῥίμφα ἑ γοῦνα φέρει</q>
+                                </cit>. ἀθετοῦνται στίχοι <num value="4">δ</num> καὶ ἀστερίσκοι
+                                παράκεινται, ὅτι οἱκειότερον ἐπ <persName
+                                    n="urn:cite:hmt:pers.pers129">Αλεξάνδρου</persName> καὶ τὸ τῆς
+                                καλλονῆς καὶ τὸ τῆς ὅλης μορφῆς καὶ τὸ τῆς στάσεως τοῦ ἵππου προς
+                                τὸν ἐν θαλάμῳ διατετριφότα ἀντιπαράκειται ἥ τε κατα τὴν αἰφνίδιον
+                                εξόρμησιν ὁμοιότης. καὶ τὸ <cit>
+                                    <ref type="urn:cts:greekLit:tlg0012.tlg001:15.266"/>
+                                    <q>κυδιόων ὑψοῦ δὲ κάρη ἔχει</q>
+                                </cit> ἐφ' <persName n="urn:cite:hmt:pers.pers172"
+                                    >Ἕκτορος</persName> τοῦ ἀρτίως ἑαυτὸν ἀνιστῶντος ἐκ τῆς
+                                λιποθυμίας, οὐχ ἁρμόζει, τοὺς μέντοι προκειμένους τῶν ἡθετημένων δύο
+                                στίχους δεῖ μένειν προς οὓς καὶ ἡ ανταπόδοσις γίνεται ⁑</p>
                         </div>
                     </div>
                     <div n="82" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>κεραόν·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.271</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κεραὸν τινὲς τὸν ἄρσενα οὗτος γὰρ κερασφορεῖ· τί οὖν ἔστι τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0033.chs35:29</ref>
+                                    <q>χρυσόκερων ἔλαφον θήλειαν</q>
+                                </cit> παρα <persName n="urn:cite:hmt:pers.pers5">Πινδάρω</persName>
+                                λεγόμενον ⁑</p>
                         </div>
                     </div>
                     <div n="83" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἢλίβατος</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.273</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἧς ἁμαρτάνομεν τῆς βάσεως, οἱ δὲ ἣν ὑφ' ἡλίου μόνου βαινομέν, ἢ εἰς
+                                ἣν ἥλιος μόνος ἐπιβαίνει, ἵν' ᾖ <q>τὸν μέν θ' ἡλίβατος πέτρη</q>
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="84" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>δάσκιος,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.273</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡ λίαν σκιώδης ἡ δασύσκιος τὸν ἔλαφον δὲ ἡ ὕλη τρέφει ὡς καὶ ἀλλαχοῦ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg002:10.159-10.160</ref>
+                                    <q>ἐκ νομοῦ ὕλης πιόμενος</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="300" type="scholion">
+                        <div type="lemma">
+                            <p>λίς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.275</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρὰ τὸ λιαρόν, ἠ τὸ ἑλεῖν, ἠ τὸ λεῖον λεῖος γὰρ ὅλος πλὴν τῆς χαίτης
+                                ἢ παρα τὸ λίαν φθείρειν ⁑</p>
                         </div>
                     </div>
                     <!-- folio 196v -->
