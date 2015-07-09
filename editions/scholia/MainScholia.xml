@@ -1958,6 +1958,19 @@
                     </div>
                     <div n="90" type="scholion">
                         <div type="lemma">
+                            <p>μακρὰ βιβᾶς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.307</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>βιβῶν</q> πᾶσαι εἶχον, <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνόδοτος</persName>, <q>βοῶν</q>, ἐπεὶ καὶ ἑξῆς φησὶν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.321</ref><q>ἐπι δ'
+                                αὐτὸς ἄϋσε μάλα μέγα</q></cit>⁑</p>
+                        </div>
+                    </div>
+                    <div n="91" type="scholion">
+                        <div type="lemma">
                             <p>ἀμφιδάσειαν:</p>
                         </div>
                         <div type="ref">
@@ -1968,7 +1981,7 @@
                                 τους θυσάνους ὑφ ἓν δὲ τὸ ὄνομα ⁑</p>
                         </div>
                     </div>
-                    <div n="91" type="scholion">
+                    <div n="92" type="scholion">
                         <div type="lemma">
                             <p>ἀμφιδάσεια,</p>
                         </div>
@@ -1984,7 +1997,7 @@
                                 ⁑</p>
                         </div>
                     </div>
-                    <div n="92" type="scholion">
+                    <div n="93" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers192">Ἥφαιστος</persName>
                                 <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> δῶκε</p>
@@ -1999,7 +2012,7 @@
                                 ποιηταὶ λέγουσιν ⁑</p>
                         </div>
                     </div>
-                    <div n="93" type="scholion">
+                    <div n="94" type="scholion">
                         <div type="lemma">
                             <p>λιλαιόμενα χρυσὸς ᾶσαι,</p>
                         </div>
@@ -2015,7 +2028,7 @@
                                 <q>κεραίω</q>. εἶτα <q>λιλαίω</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="94" type="scholion">
+                    <div n="95" type="scholion">
                         <div type="lemma">
                             <p>αὐτὰρ ἐπεὶ κατ ενῶπα:</p>
                         </div>
@@ -2034,20 +2047,13 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.374</ref>
                                     <q>ὡς εἴ τι κακὸν ῥέζουσαν ἐνωπῆ</q>
                                 </cit>, παρ' ἥν ἐστιν αἰτιατικὴ ἐνωπήν. ὃν οὖν τρόπον τὴν
-                                <q>ϊωκὴν</q> <q>ϊῶκα</q> εἶπεν μεταπλάσας οὕτως καὶ τὴν <q>ἐνωπὴν</q> <q>ἐνῶπα</q>
-                                προπερισπωμένως. ὑποστιγμὴ δὲ κατα τὸ τελος τοῦ στίχου καὶ <q>σεῖσαι</q>
-                                 τὸν <q><choice><sic>δὲ</sic><corr>δε</corr></choice></q> περιττεύοντος τοῖσι δὲ <q>θυμόν</q> ⁑</p>
-                        </div>
-                    </div>
-                    <div n="95" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
+                                    <q>ϊωκὴν</q>
+                                <q>ϊῶκα</q> εἶπεν μεταπλάσας οὕτως καὶ τὴν <q>ἐνωπὴν</q>
+                                <q>ἐνῶπα</q> προπερισπωμένως. ὑποστιγμὴ δὲ κατα τὸ τελος τοῦ στίχου
+                                καὶ <q>σεῖσαι</q> τὸν <q><choice>
+                                        <sic>δὲ</sic>
+                                        <corr>δε</corr>
+                                    </choice></q> περιττεύοντος τοῖσι δὲ <q>θυμόν</q> ⁑</p>
                         </div>
                     </div>
                     <!-- folio 197v -->
