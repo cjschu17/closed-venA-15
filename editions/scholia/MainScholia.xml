@@ -1833,46 +1833,52 @@
                     <!-- folio 196v -->
                     <div n="85" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ὡς <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοὶ</rs>
+                                εἵως,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.277-15.278</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πάλιν τὸ <q>εἵως</q> ἀντι τοῦ <q>τέως</q> κεῖται· οὐκ ἄρα ὑποστιγμήν,
+                                ἀλλα στιγμὴν θετέον ἐπι τὸ <q>ἀμφιγύοισιν</q> ⁑</p>
                         </div>
                     </div>
                     <div n="86" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>παραὶ ποσὶ κάππεσε θυμὸς</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.280</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὰς ψυχὰς ἐταπεινώθησαν ἅπαντες λιποψυχήσαντες τὴν <choice>
+                                    <abbr>σρίαν</abbr>
+                                    <expan>σωτηρίαν</expan>
+                                </choice> παρα τοῖς ποσὶν εἶχον ⁑</p>
                         </div>
                     </div>
                     <div n="87" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ῆ θήν μιν,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.288</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>διαβεβαιωτικός ἐστι διὸ περισπαστέον αὐτόν ⁑</p>
                         </div>
                     </div>
                     <div n="88" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ δούρατ' ἀνασχόμενοι,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.297-15.298</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἤτοι συναπτέον τῷ <q>ἀντιάσαντες</q>, ἠ διασταλτέον ἀπ αυτῶν ἵν' ᾖ
+                                τὸ ἑξῆς <q>στείομεν</q> δούρατ' ἀνασχόμενοι ⁑</p>
                         </div>
                     </div>
                     <!-- folio 197r -->
