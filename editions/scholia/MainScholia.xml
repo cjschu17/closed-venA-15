@@ -32,7 +32,7 @@
                             <p> ἡ ἀναφορὰ πρὸς τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.507</ref>
                                     <q>πάπτηνεν δὲ ἕκαστος ὅπη φύγῃ <sic>αἰπῦν</sic> ὄλεθρον</q>
-                                </cit> ἐνθάδε γὰρ τὸ πέρας τῆς δίωξεως, πολλοὶ δὲ. τοῦ το δια μέσου
+                                </cit> ἐνθάδε γὰρ τὸ πέρας τῆς διώξεως, πολλοὶ δὲ. τοῦ το δια μέσου
                                 ἄλλοι γὰρ ἔδαμεν, ἄλλοι δὲ ἔφευγον ⁑</p>
                         </div>
                     </div>
@@ -149,7 +149,7 @@
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.146</ref>
                                     <q>ἄστεος <sic>αἱὲν</sic> ὑπερ κατ <choice>
-                                            <corr>αμαξητόν</corr>
+                                            <corr><sic>αμαξητόν</sic></corr>
                                             <sic>αμαξητὸν</sic>
                                         </choice></q>
                                 </cit> ἀλλα νῦν ἡ κακοφωνίᾳ τῆς φωνῆς κρᾶσιν ἐποίησεν αὐτὸν
@@ -277,7 +277,7 @@
                                 ἀποδέδωκεν ὡς επι τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.415</ref>
                                     <q>δὸς φίλος οὐ γάρ μοι δοκέεις ὁ κάκιστος <rs type="ethnic"
-                                            n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> έμμεναι ἀλλ'
+                                            n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> έμεναι ἀλλ'
                                         ὤριστος ⁑</q>
                                 </cit>
                             </p>
@@ -342,7 +342,7 @@
                     </div>
                     <div n="16" type="scholion">
                         <div type="lemma">
-                            <p>ἢ οὐ μέμνῃ ὅτε τ' ἐκρέμνω</p>
+                            <p>ἢ οὐ μέμνῃ ὅτε τ' <sic>ἐκρέμνω</sic></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.18</p>
