@@ -2199,57 +2199,91 @@
 
                     <div n="104" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ἀλλα κύνες ἐρύουσι,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.351</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡ διπλῆ ὅτι ἐνεστῶτι ἀντι μέλλοντος κέχρηται <q>ἐρύουσιν</q> ἀντι τοῦ
+                                    <q>ἐρύσουσι</q>, τρίτη δὲ ἀπο τέλους ἡ ὀξεῖα ἐπι τὸ
+                                    <q>ἐρύουσιν</q> εἴρηται δὲ <title>περι τῆς προσῳδίας</title> ἐν
+                                τῇ <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:11"
+                                        >Λ</ref></title> ⁑</p>
                         </div>
                     </div>
                     <div n="105" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ῥεῖ όχθας καπέτοιο βαθείης <w>πο<add place="supralinear"
+                                    >σ</add>σὶν</w> ἐρίπων:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.356</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                γράφει <q>χερσίν</q> εὐλογώτερον δὲ μὴ κατακύπτειν τὸν <choice>
+                                    <abbr>θν</abbr>
+                                    <expan>θεόν</expan>
+                                </choice>, ἀλλα τοῖς ποσὶ συγχεῖν ⁑</p>
                         </div>
                     </div>
                     <div n="106" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>πειρώμενος ᾗσι,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.359</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐπεκτεταται τὸ ᾗσι ἀντι γὰρ τοῦ ῇ ἐστιν ὑποτακτικοῦ, ὅπερ ἡ συνήθεια
+                                λέγει μετὰ προθέσεως ἀφ ᾗ διὸ καὶ μετα τοῦ <rs type="waw">ϊ</rs>
+                                γράφεται καὶ δασύνεται ἀπο γὰρ τοῦ ἴημι <choice>
+                                    <sic>δασυνόμένου</sic>
+                                    <corr>δασυνομένου</corr>
+                                </choice>
+                                <choice>
+                                    <abbr>κέκλητ</abbr>
+                                    <expan>κέκληται</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="107" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τῇ ρ' οἵ γε προχέοντο φαλαγγηδόν,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.360</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τῶν τετηῥημένων ἐστι καὶ <choice>
+                                    <sic>αὑτῆ</sic>
+                                    <corr>αὕτη</corr>
+                                </choice> ἡ στιγμη ἐπὶ τοῦ ὀκτωκαιδεκάτου χρόνου ὀλίγαι δέ εἰσὶ παρ
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὁμήρῳ</persName>
+                                τοιαῦται</p>
                         </div>
                     </div>
                     <div n="108" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὥς ῥα σὺ ἤϊε,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.365</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> δασύνει
+                                ἀπο τῆς έσεως τῶν βελῶν οἱ δὲ περι τὸν Κράτητα ψιλῶς ἀπο τῆς ϊάσεως
+                                καὶ οὕτως ἐπείσθησαν οἱ γραμματικοὶ προς διάφορον ἐτυμολογίαν
+                                διαφόρως ἀναγινώσκειν· ἀγνοοῦσι δὲ, ὅτι ὁ χαρακτηρ μάχεται ἀεὶ γὰρ
+                                τὸ <rs type="waw">η</rs> προ φωνήεντος ψιλοῦται, <q>ἠώς</q>
+                                <q>ἤϊα</q> ταύτη καὶ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.268</ref>
+                                    <q>ἥϊε ξείνον θέμις ἐστὶ</q>
+                                </cit> δασύνεται· τὸ δὲ <q>ἠὼς</q> ψιλοῦται, καὶ τὸ
+                                ἕως δασύνεται. τὸ δὲ <q>ἠὼς</q> ψιλοῦται, καὶ τὸ ἥλιος δασύνεται το δὲ
+                                <q>ἠέλιος</q> ἐψιλώθη. ὥστε εἴτε ἐκ τοῦ ἥϊος δασυνομένου ἐστὶν
+                                εἴτε ἐκ τοῦ ψιλουμένου μόνως ψιλωτέον ⁑</p>
                         </div>
                     </div>
                     <!-- folio 198v -->
