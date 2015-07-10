@@ -568,10 +568,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.393</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἅπαξ <choice>
+                                    <abbr>ἐνταυθ</abbr>
+                                    <expan>ἐνταῦθα</expan>
+                                </choice> εν τῷ <title><ref type="urn"
+                                        n="urn:cts:greekLit:tlg0012.tlg001"><choice>
+                                            <abbr>Ἰλιαδ</abbr>
+                                            <expan>Ἰλιάδι</expan>
+                                        </choice></ref></title> τὸ λόγοις ⁑</p>
                         </div>
                     </div>
                     <div n="35" type="scholion">
@@ -579,10 +586,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.395</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <choice><abbr>ἐλλειπ</abbr><expan>ἐλλείπει</expan></choice> ἡ <q>ἐπὶ</q> <q>τεῖχος</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 199r -->

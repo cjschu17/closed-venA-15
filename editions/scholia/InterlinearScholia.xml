@@ -284,10 +284,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X@ἔβαινον</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.384@ἔβαινον</p>
                         </div>
                         <div type="comment">
-                            <p>ησαν</p>
+                            <p><rs type="waw">ησαν</rs></p>
                         </div>
                     </div>
                     <!-- 199r -->
