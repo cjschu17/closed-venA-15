@@ -27,7 +27,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.8</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers47"><choice><abbr>Ποσει</abbr><expan>Ποσειδάωνα</expan></choice></persName></p>
+                            <p><persName n="urn:cite:hmt:pers.pers47"><choice>
+                                        <abbr>Ποσει</abbr>
+                                        <expan>Ποσειδάωνα</expan>
+                                    </choice></persName></p>
                         </div>
                     </div>
 
@@ -188,7 +191,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.307</p>
                         </div>
                         <div type="comment">
-                            <p><del>βιβῶν</del> </p>
+                            <p><del>βιβῶν</del>
+                            </p>
                         </div>
                     </div>
                     <div n="14" type="scholion">
@@ -209,10 +213,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.339</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.339@Μηκιστῆ δ᾽</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del><persName n="urn:cite:hmt:pers.pers640">Μηκιστὴν</persName>
+                                    δ'</del></p>
                         </div>
                     </div>
                     <!-- folio 198r -->
