@@ -2126,53 +2126,73 @@
                                 <q><placeName n="urn:cite:hmt:place.place298">Μῆλος</placeName></q>
                                 <q>βῆλος</q> οὕτως οὖν καὶ <q><persName
                                         n="urn:cite:hmt:pers.pers984">Σφῆλος</persName></q>· τὰ
-                                μέντοι προσηγορικὰ ὀξυτονεῖται· <q>πηλός</q> <q>χηλος</q> καὶ βαρύνεται ὡς <q>δῆλος</q>
-                                τὸ ἐπιθετικὸν καὶ <q>ῆλος</q> καὶ <q>ζῆλος</q>, περι ὦν εἰρήσεται ἡμῖν ἐν τοῖς
+                                μέντοι προσηγορικὰ ὀξυτονεῖται· <q>πηλός</q>
+                                <q>χηλος</q> καὶ βαρύνεται ὡς <q>δῆλος</q> τὸ ἐπιθετικὸν καὶ
+                                    <q>ῆλος</q> καὶ <q>ζῆλος</q>, περι ὦν εἰρήσεται ἡμῖν ἐν τοῖς
                                     <title>περὶ καθολικῆς προσῳδίας</title> ⁑</p>
                         </div>
                     </div>
                     <div n="100" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers640"><choice>
+                                        <sic>Μηκιστῇ</sic>
+                                        <corr>Μϊκιστῇ</corr>
+                                    </choice></persName> δ' ἕλε</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.339</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁμοίως τῷ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012:tlg001:4.384</ref>
+                                    <q>ἐνθ' αῦτ' ἀγγελίην ἐπὶ <persName
+                                            n="urn:cite:hmt:pers.pers251">Τυδῆ</persName> στεῖλαν
+                                            <rs type="ethnic" n="urn:cite:hmt:place.place96"
+                                            >Ἀχαιοί</rs></q>
+                                </cit>, καὶ ἥτοι ἀπεκόπη ἡ <persName n="urn:cite:hmt:pers.pers640"
+                                    >Μηκιστῇα</persName> αἰτιατικὴ ἡ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place78">Δορικῶς</rs> κέκλιται ὅπερ μοι
+                                δοκεῖ ⁑</p>
                         </div>
                     </div>
                     <div n="101" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὄφρ' οἱ τοὺς ἐνάριζον ἀπ έντεα: </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.343</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἕως οὗ αὐτοὶ τούτους ἐσκύλευον ἀφαιρούμενοι αὐτῶν τὰ ἡμαγμένα ὅπλα
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="102" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> δὲ <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσιν</rs>
+                                ἐκέκλετο:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.346-15.348</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡ συνήθεια συνάπτει. καὶ τὸ <q>νηυσὶν ἐπισσεύεσθαι</q> ἵνα ἡ
+                                μετάβασις ἡ ἀπο τοῦ διηγηματικοῦ ἐπι τὸ μιμητικὸν ἦ· <q>ὃν δ ἂν ἐγὼν
+                                    ἀπάνευθε</q>·</p>
                         </div>
                     </div>
                     <div n="103" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>νηυσὶν ἐπισσεύεσθαι:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.347</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                γράφει <q>ἐπισσεύεσθον</q> συγχεῖται δὲ τὸ δυϊκὸν κατὰ πλειόνων
+                                τασσόμενον ⁑</p>
                         </div>
                     </div>
                     <!-- folio 198r -->
