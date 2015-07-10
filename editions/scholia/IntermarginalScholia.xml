@@ -53,7 +53,7 @@
                             <p><persName n="urn:cite:hmt:pers.pers15"><choice>
                                         <abbr>Ζηνοδ</abbr>
                                         <expan>Ζηνόδοτος</expan>
-                                    </choice></persName> οὑδε όλως τὴν κόλασιν τὴς <persName
+                            </choice></persName> οὐδε όλως τὴν κόλασιν τῆς <persName
                                     n="urn:cite:hmt:pers.pers116">Ήρας</persName> γράφει :</p>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                             <p>καὶ κείνω ἐκ πλήρους <persName n="urn:cite:hmt:pers.pers16"
                                     >Ἀρισταρχος</persName> τὸ καὶ <choice>
                                     <abbr>συνδ</abbr>
-                                    <expan>συνδέσμον</expan>
+                                        <expan>σύνδεσμον</expan>
                                 </choice></p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                             <p><persName n="urn:cite:hmt:pers.pers21"><choice>
                                         <abbr>Αριστοφ</abbr>
                                         <expan>Ἀριστοφάνης</expan>
-                                    </choice></persName> μετὰ τοῦ σ <q>βοῶπις</q>· καὶ ἔστιν
+                                    </choice></persName> μετὰ τοῦ <rs type="waw">σ</rs> <q>βοῶπις</q>· καὶ ἔστιν
                                 εὐφραδέστερον :</p>
                         </div>
                     </div>
