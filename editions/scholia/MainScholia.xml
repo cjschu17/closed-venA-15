@@ -581,7 +581,7 @@
                                     <q>λισσομένη τιμῆσαι</q>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:15.77</ref>
                                 </cit> ἀθετοῦνται στίχοι <num value="22">κβ</num>, ὅτι οὐκ ἀναγκαίως
-                                παλλιλλογεῖται περι τῶν ἑξῆς ἐπεισαχθησομένων καὶ κατα τὴν σύνθεσιν
+                                <sic>παλλιλλογεῖται</sic> περι τῶν ἑξῆς ἐπεισαχθησομένων καὶ κατα τὴν σύνθεσιν
                                 εἰσὶν εὐτελεῖς καὶ ὅτι ὡς ἐπίπαν προς τὸ δεύτερον πρότερον ἀπαντᾷ·
                                 νῦν δὲ προς τὸ πρότερον ἀπήντηκεν ὄφρ' ἡ μὲν μετὰ λαὸν <rs
                                     type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>· ψεῦδος
@@ -589,17 +589,17 @@
                                     <q>φεύγοντες δ' ἐν νηυσὶ πολυκλήϊσι πέσωσι</q>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:15.63</ref>
                                 </cit><cit>
-                                    <q><persName n="urn:cite:hmt:pers.pers47">Πηλείδεω
+                                    <q><persName n="urn:cite:hmt:pers.pers1">Πηλείδεω
                                             Ἀχιλῆος</persName></q>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:15.64</ref>
                                 </cit>. οὔτε γὰρ παραγεγόνασιν ἕως τῶν <persName
-                                    n="urn:cite:hmt:pers.pers47">Ἀχιλλέως</persName> νεῶν, οὔτε τὸν
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> νεῶν, οὔτε τὸν
                                     <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>
-                                ἀνέστησεν ἐπι τὸν πόλεμον ὁ <persName n="urn:cite:hmt:pers.pers47"
+                                ἀνέστησεν ἐπι τὸν πόλεμον ὁ <persName n="urn:cite:hmt:pers.pers1"
                                     >Ἀχιλλεύς</persName>. καὶ τὸ <cit>
                                     <q>πέσωσιν</q>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:15.63</ref>
-                                </cit> οὐχ Ὁμηρικόν. μᾶλλον γὰρ ἐκεῖνοις τὸ ἐμπεσεῖν ἐπι τοῦ
+                                </cit> οὐχ Ὁμηρικόν. μᾶλλον γὰρ ἐκείνοις τὸ ἐμπεσεῖν ἐπι τοῦ
                                 ἐνσεῖσαι τίθησιν <cit>
                                     <q>ἔφαντο γὰρ οὐκέτ' <rs type="ethnic"
                                             n="urn:cite:hmt:place.place96">Ἀχαιούς</rs></q>
@@ -612,7 +612,7 @@
                                 διώκωσι σαφῶς γὰρ ἐν ἄλλοις φησίν· <cit>
                                     <q>εἰ δέ χ' ὑποστρέψω καὶ παλίωξις δὲ γένηται</q>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:12.71</ref>
-                                </cit>· ἀσύνηθες δὲ καὶ οὐδετερως τὸ Ἴλιον νῦν ῥηθὲν <cit>
+                                </cit>· ἀσύνηθες δὲ καὶ οὐδετερως τὸ <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName> νῦν ῥηθὲν <cit>
                                     <q><placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName>
                                         αἰπὺ ἕλοιεν</q>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:15.71</ref>
@@ -621,13 +621,13 @@
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:15.77</ref>
                                 </cit> φησὶν ὁ <persName n="urn:cite:hmt:pers.pers16"
                                     >Ἀρίσταρχος</persName> ὅτι οὐδαμῆ τὸν <persName
-                                    n="urn:cite:hmt:pers.pers47">Ἀχιλλέα</persName> πτολίπορθον
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName> πτολίπορθον
                                 εἴρηκεν, ἀλλα ποδάρκη καὶ ποδώκη ⁑</p>
                         </div>
                     </div>
                     <div n="27" type="scholion">
                         <div type="lemma">
-                            <p>ὃ δ' ὰνστήσει ὂν ἑταῖρον:</p>
+                            <p>ὃ δ' <sic>ἂνστήσει</sic> ὂν ἑταῖρον:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.64</p>

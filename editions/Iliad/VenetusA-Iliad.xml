@@ -100,7 +100,7 @@
         <l n="53">ἂλλ' εἰ δή ρ' ἐτεόν γε καὶ ἀτρεκέως ἀγορεύεις. </l>
         <l n="54">ἔρχεο νῦν μετα φῦλα θεῶν. καὶ δεῦρο κάλεσσον</l>
         <l n="55"><persName n="urn:cite:hmt:pers.pers282">Ϊ̂ρίν</persName> τ' ἐλθέμεναι καὶ
-            <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>α κλυτότοξον·</l>
+          <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνα</persName> κλυτότοξον·</l>
         <l n="56">ὄφρ' ἡ μὲν μετὰ λαὸν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>
           χαλκοχιτώνων</l>
         <l n="57">ἔλθῃ, καὶ εἴπῃσι <persName n="urn:cite:hmt:pers.pers47">Ποσειδάωνι</persName>
@@ -113,15 +113,15 @@
             n="urn:cite:hmt:place.place96">Ἀχαιοὺς</rs></l>
         <l n="62">αῦτις ἀποστρέψῃσιν. ἀνάλκιδα φύζαν ἐνόρσας·</l>
         <l n="63">φεύγοντες δ' ἐν νηυσὶ πολυκλήϊσι πέσωσι</l>
-        <l n="64"><persName n="urn:cite:hmt:pers.pers1">Πηλείδεω Ἀχιλῆος</persName>· ὁ δ`' ἀνστήσει.
+        <l n="64"><persName n="urn:cite:hmt:pers.pers1">Πηλείδεω Ἀχιλῆος</persName>· ὁ <sic>δ`'</sic> ἀνστήσει.
           ὃν, ἑταῖρον</l>
         <l n="65"><persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>. τὸν δὲ κτενεῖ ἔγχεϊ
           φαίδιμος <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName></l>
-        <l n="66"><placeName n="urn:cite:hmt:place.place6">Ἰ̈λίου</placeName> προπάροιθε· πολείς
+        <l n="66"><placeName n="urn:cite:hmt:place.place6">Ἰ̈λίου</placeName> προπάροιθε· πολεῖς
           ὀλέσαντ' αἰζηοὺς</l>
         <l n="67">τοὺς ἄλλους. μετὰ δ' υἱὸν ἐμὸν <persName n="urn:cite:hmt:pers.pers195"
             >Σαρπηδόνα</persName> δῖον·</l>
-        <l n="68">τοῦ δὲ χολωσάμενος κτενεῖ <persName n="urn:cite:hmt:pers.pers172)"
+        <l n="68">τοῦ δὲ χολωσάμενος κτενεῖ <persName n="urn:cite:hmt:pers.pers172"
             >Ἕκτορα</persName> δῖος <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>·</l>
         <l n="69">ἐκ τοῦ δ' άν τοι ἔπειτα παλίωξιν παρὰ νηῶν</l>
         <l n="70">αἰὲν ἐγὼ τεύχοιμι διαμπερὲς. εἰσόκ' <rs type="ethnic"
@@ -129,7 +129,7 @@
         <l n="71"><placeName n="urn:cite:hmt:place.place6">Ί̈λιον</placeName> αἰπὺ ἕλοιεν <persName
             n="urn:cite:hmt:pers.pers67">Ἀθηναίης</persName> διὰ βουλάς·</l>
         <l n="72">τὸ πρὶν δ' οὔτ' ὰρ, ἐγὼ παύω χόλον οὔτέ τιν' ἄλλον</l>
-        <l n="73">ἀθανάτων Δαναοῖσιν ἀμυνέμεν ἐνθάδ' ἐάσω.</l>
+        <l n="73">ἀθανάτων <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοῖσιν</rs> ἀμυνέμεν ἐνθάδ' ἐάσω.</l>
         <l n="74">πρίν γε τὸ <persName n="urn:cite:hmt:pers.pers1">Πηλείδαο</persName> τελευτηθῆναι
           ἐέλδωρ</l>
         <l n="75">ὥς οἱ ὑπέστην πρῶτον. ἐμῷ δ' ἐπένευσα κάρητι.</l>
