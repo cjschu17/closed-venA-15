@@ -828,7 +828,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.116</p>
                         </div>
                         <div type="comment">
-                            <p>οὗτoς ἐστιν ὁ ἀλλοπροσάλλος, οἱ γὰρ ἀδικήσαντες αὐτὸν ἦσαν οἱ <rs
+                            <p>οὗτoς ἐστιν ὁ <sic>ἀλλοπροσάλλος</sic>, οἱ γὰρ ἀδικήσαντες αὐτὸν ἦσαν οἱ <rs
                                     type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> οἱ
                                 κατάρξαντες τοῦ ἀδικήματος ⁑</p>
                         </div>
@@ -858,9 +858,9 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.118</ref>
                                     <q>τὸν δέ τ' ἄνδρα ἑλεῖν καὶ εἰς ορμὴν ἔγχεος ἐλθεῖν</q>
                                 </cit>· καὶ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
-                                    ></ref><abbr>Οδ</abbr><expan>Ὀδυσσείᾳ</expan></title>. <cit>
+                                    ></ref><choice><abbr>Οδ</abbr><expan>Ὀδυσσείᾳ</expan></choice></title>. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.24</ref>
-                                    <q>αἰδὼς δ αῦ νέον ἄνδρα γεραίτερον ἐξερεεθαι</q>
+                                    <q>αἰδὼς δ αῦ νέον ἄνδρα γεραίτερον <sic>ἐξερεεθαι</sic></q>
                                 </cit> ὅπερ ἀγνοήσαντες τινὲς ἔγραψαν <q>νέῳ ἀνδρί</q> ⁑</p>
                         </div>
                     </div>
