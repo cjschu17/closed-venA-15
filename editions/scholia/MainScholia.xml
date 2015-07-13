@@ -793,7 +793,7 @@
                                     >Σαρδόνιος</rs> καλεῖται, ὅτ ἄν τις μὴ ἐκ διαθέσεως καὶ κρίσεως
                                 γελᾷ, οὗτος δέ ἐστιν ὁ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place437">Σαρδόνιος</rs> καλούμενος γέλως
-                                μετα δηχμοῦ πρὸς ὑπόκρισιν οὐ γὰρ γελᾷ. καὶ τὸν <persName
+                                μετα <sic>δηχμοῦ</sic> πρὸς ὑπόκρισιν οὐ γὰρ γελᾷ. καὶ τὸν <persName
                                     n="urn:cite:hmt:pers.pers83">Ἄρη</persName> δὲ ὑπομνήσκει τοῦ
                                 υἱοῦ φοβοῦσα ἵν' αὐτὸν ἀποστήσῃ, τῆς τῶν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place6">Τρώων</rs> συμμαχίας καὶ τοὺς
@@ -855,8 +855,8 @@
                                 </cit>, τὸ δὲ γενος τῆς ἀμφιβολίας ἐστιν εὑρεῖν καὶ ἀλλαχῇ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.118</ref>
                                     <q>τὸν δέ τ' ἄνδρα ἑλεῖν καὶ εἰς ορμὴν ἔγχεος ἐλθεῖν</q>
-                                </cit>· καὶ ἐν <title type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
-                                        ><abbr>Οδ</abbr><expan>Ὀδυσσείᾳ</expan></title>. <cit>
+                                </cit>· καὶ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
+                                    ></ref><abbr>Οδ</abbr><expan>Ὀδυσσείᾳ</expan></title>. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.24</ref>
                                     <q>αἰδὼς δ αῦ νέον ἄνδρα γεραίτερον ἐξερεεθαι</q>
                                 </cit> ὅπερ ἀγνοήσαντες τινὲς ἔγραψαν <q>νέῳ ἀνδρί</q> ⁑</p>
