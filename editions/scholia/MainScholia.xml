@@ -2642,24 +2642,24 @@
                     </div>
                     <div n="131" type="scholion">
                         <div type="lemma">
-                            <p>καί ρ' ἔβαλλε <persName n="urn:cite:hmt:pers.pers989">Κλειτὸν</persName>,<p/>
+                            <p>καί ρ' ἔβαλλε <persName n="urn:cite:hmt:pers.pers989">Κλειτὸν</persName>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.445</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers989"><q>Κλειτὸς</q></persName> ὄνομα κύριον ὀξυντέον δὲ ὁμοιως τῷ επιθετῳ επειδὴ κόσμου ἐστὶ τὸ ἐπίθετον ⁑<p/>
+                            <p><q><persName n="urn:cite:hmt:pers.pers989">Κλειτὸς</persName></q> ὄνομα κύριον ὀξυντέον δὲ ὁμοιως τῷ επιθετῳ επειδὴ κόσμου ἐστὶ τὸ ἐπίθετον ⁑</p>
                         </div>
                     </div>
                     <div n="132" type="scholion">
                         <div type="lemma">
-                            <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs>·<p/>
+                            <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs>·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.449-15.451</p>
                         </div>
                         <div type="comment">
-                           <p>ἀθετοῦνται στίχοι <num value="3">Γ</num> καὶ ἀστερίσκοι παράκεινται ὅτι ἐπὶ <persName n="urn:cite:hmt:pers.pers758">Ἱπποθόου</persName> τοῦ ἐπικούρου ἁρμόζει ἐν τῆ <num value="9">Ϊ</num>  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.291</ref><q><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> χαριζόμενος</q></cit> ἐπὶ δὲ τούτου καθάπερ νῦν οὐχ ἁρμόζει οὐ γὰρ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName>χαριζόμενος, ἀλλ' ἑαυτῷ καὶ <choice><abbr>πρι</abbr><expan>πατρί </expan></choice> καὶ τὰ τῆς πληγῆς ἀνακόλουθα· πῶς γὰρ ὁ ἀντίον ηνιοχῶν ἐπὶ τὰ ὄπισθε κατα τὸν αὐχένα τύπτεται ὕστερον δὲ ἐν τοῖς <title>Περὶ τοῦ ναυσταθμου</title> ἀπολογεῖται τὸν γὰρ ἡνίοχον φασὶν ἀπεστράφθαι προς τὸ παιδίον καὶ τοὺς ἵππους. τὸν δὲ παραιβάτην πρὸς τὰς ναῦς ἐπι τοῦ δίφρου ἵνα ἀπο τοῦ ἴσου γένηται ἡ μάχη. ἔστι δὲ καὶ ἀλλαγὴν πτώσεως νοῆσαι ἀντι τοῦ αὐχένος ὄπισθεν ⁑ <p/>
+                           <p>ἀθετοῦνται στίχοι <num value="3">Γ</num> καὶ ἀστερίσκοι παράκεινται ὅτι ἐπὶ <persName n="urn:cite:hmt:pers.pers758">Ἱπποθόου</persName> τοῦ ἐπικούρου ἁρμόζει ἐν τῆ <num value="9">Ϊ</num>  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.291</ref><q><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> χαριζόμενος</q></cit> ἐπὶ δὲ τούτου καθάπερ νῦν οὐχ ἁρμόζει οὐ γὰρ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName>χαριζόμενος, ἀλλ' ἑαυτῷ καὶ <choice><abbr>πρι</abbr><expan>πατρί </expan></choice> καὶ τὰ τῆς πληγῆς ἀνακόλουθα· πῶς γὰρ ὁ ἀντίον ηνιοχῶν ἐπὶ τὰ ὄπισθε κατα τὸν αὐχένα τύπτεται ὕστερον δὲ ἐν τοῖς <title>Περὶ τοῦ ναυσταθμου</title> ἀπολογεῖται τὸν γὰρ ἡνίοχον φασὶν ἀπεστράφθαι προς τὸ παιδίον καὶ τοὺς ἵππους. τὸν δὲ παραιβάτην πρὸς τὰς ναῦς ἐπι τοῦ δίφρου ἵνα ἀπο τοῦ ἴσου γένηται ἡ μάχη. ἔστι δὲ καὶ ἀλλαγὴν πτώσεως νοῆσαι ἀντι τοῦ αὐχένος ὄπισθεν ⁑ </p>
                         </div>
                     </div>
                     <!-- 200r -->
