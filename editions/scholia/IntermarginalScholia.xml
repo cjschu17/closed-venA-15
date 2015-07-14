@@ -833,10 +833,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.428</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> αγῶνι τῷ ἀθροίσματι τῶν νεῶν εστι τῷ <choice><sic><abbr>νασταθμ</abbr></sic><expan>ναυσταθμῳ</expan></choice> ⁑</p>
                         </div>
                     </div>
                     <!-- 199v -->
@@ -846,10 +846,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.437-15.438</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> παραλληλως καὶ διδασκαλικῶς η <choice><abbr>διαφο</abbr><expan>διαφορὰ</expan></choice> τοῦ <q>νωϊν</q>  καὶ <q>νῶϊ</q> ⁑</p>
                         </div>
                     </div>
                     <div n="52" type="scholion">
@@ -857,10 +857,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.450</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>διχῶς <persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> καὶ <q>ϊεμένῳ</q>. καὶ <q>ϊεμένων</q> ⁑</p>
                         </div>
                     </div>
                     <div n="53" type="scholion">
