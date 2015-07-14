@@ -881,10 +881,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.459</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice><abbr>Ζηνοδοτ</abbr><expan>Ζηνόδοτος</expan></choice></persName> μάχης ἄλλοι δὲ <q>μάχην</q> καὶ <persName n="urn:cite:hmt:pers.pers21"><choice><abbr>Ἀριστοφ</abbr><expan>Ἀριστοφάνης</expan></choice></persName> δὲ <q>μάχην</q> ⁑</p>
                         </div>
                     </div>
                     <div n="55" type="scholion">
@@ -892,10 +892,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.467</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν αλλῳ <q>ὦ πέπον</q></p>
                         </div>
                     </div>
                     <!-- 200v -->

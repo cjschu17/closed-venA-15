@@ -624,10 +624,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.462</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἐνήλλακται ἡ πτῶσις <q><persName n="urn:cite:hmt:pers.pers243"><sic>Τοῦκρον</sic></persName></q> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> <q><persName n="urn:cite:hmt:pers.pers243">Τεύκρου</persName></q> ⁑</p>
                         </div>
                     </div>
                     <!-- 200v -->

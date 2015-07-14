@@ -2666,46 +2666,46 @@
 
                     <div n="133" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὅς οἱ ἐϋστρεφέα νευρὴν,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.463</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὐκ αναγκαῖον ἐκτείνειν τὸ <rs type="waw">α</rs> ἀπήρτησε γὰρ εἰς μέρος <choice><abbr>λο</abbr><expan>λόγου</expan></choice> ὁμοίως τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.45</ref><q>ἀμφιρεφέα τε φαρέτρην</q></cit> ⁑</p>
                         </div>
                     </div>
                     <div n="134" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ῥῆξ ἐπὶ τῷ ἐρύοντι,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.464</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι πτώσεως γέγονεν ἐναλλαγὴ δοτικὴν ἀντι γενικῆς <q>ἐρύοντι</q> ἀντι τοῦ <q>ἐρύοντος</q> τὴν νευρὰν ἐπι τούτῳ ⁑</p>
                         </div>
                     </div>
                     <div n="135" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>νευρὴν δ' ἐξέρρηξε νεόστροφον ἣν ἐνέδησα πρώϊον:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.469-15.470</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀμφότερα γράφεσθαι φησὶν ὁ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> <q>πρῴην</q> καὶ <q>πρώϊον</q>. ταυτὸν δὲ ἐξ ἑκατέρου σημαίνεσθαι· εὕρομεν δὲ καὶ <q>ἐΰστροφον</q> γεγραμμένον καὶ ἔχει τινὰ <choice><abbr>ἐπιτα</abbr><expan>ἐπίστασιν</expan></choice> ⁑</p>
                         </div>
                     </div>
                     <div n="136" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>πρώϊον, ὄφρ' ἀνέχοιτο:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.470</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice><abbr>Ζηνοδοτ</abbr><expan>Ζηνόδοτος</expan></choice></persName> γράφει <q>πρώην</q>· ἔμφασις δὲ γίνεται πλείονος χρόνου· τὸ δὲ <q>πρώϊον</q> ἐστι πρωΐας καὶ γὰρ γέγονεν οὑτως, τῇ προ ταύτης ἡμέρᾳ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.328</ref><q>ῥῆξε δέ οἱ νευρὴν νάρκησε δὲ</q></cit>, ὥστε εὔλογον τῇ ἑξῆς ἐκείνης πρωΐας ἐνῆφθαι ⁑</p>
                         </div>
                     </div>
                     <!-- 200v -->
