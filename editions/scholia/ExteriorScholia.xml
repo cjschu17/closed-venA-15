@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
@@ -27,7 +27,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.8</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers47"><choice><abbr>Ποσει</abbr><expan>Ποσειδάωνα</expan></choice></persName></p>
+                            <p><persName n="urn:cite:hmt:pers.pers47"><choice>
+                                        <abbr>Ποσει</abbr>
+                                        <expan>Ποσειδάωνα</expan>
+                                    </choice></persName></p>
                         </div>
                     </div>
 
@@ -45,6 +48,13 @@
                                         <expan>ποσειδῶνα</expan>
                                     </choice></persName></p>
                         </div>
+                        <div n="2a" type="scholion">
+                            <div type="lemma">
+                            <p/></div>
+                            <div type="ref">
+                                <p/>
+                            </div>
+                            <div type="comment"><p><choice><abbr><w>><unclear> κειν</unclear>τ</w></abbr><expan>κειντο</expan></choice></p></div>
                     </div>
                     <div n="3" type="scholion">
                         <div type="lemma">
@@ -188,7 +198,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.307</p>
                         </div>
                         <div type="comment">
-                            <p><del>βιβῶν</del> </p>
+                            <p><del>βιβῶν</del>
+                            </p>
                         </div>
                     </div>
                     <div n="14" type="scholion">
@@ -209,10 +220,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.339</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.339@Μηκιστῆ δ᾽</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del><persName n="urn:cite:hmt:pers.pers640">Μηκιστὴν</persName>
+                                    δ'</del></p>
                         </div>
                     </div>
                     <!-- folio 198r -->
@@ -228,7 +240,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.436</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δὲ ρίγησε</del></p>
                         </div>
                     </div>
                     <!-- 200r -->
@@ -241,7 +253,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.469</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><abbr>ἐνέδη</abbr></p>
                         </div>
                     </div>
                     <!-- 200v -->
@@ -254,7 +266,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.494</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><q>ύμεων</q></p>
                         </div>
                     </div>
                     <!-- 201r -->
@@ -335,6 +347,7 @@
                         <div type="comment">
                             <p/>
                         </div>
+                    </div>
                     </div>
                 </body>
             </text>
