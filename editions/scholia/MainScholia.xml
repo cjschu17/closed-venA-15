@@ -2922,12 +2922,14 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι οὗτος ἐστι <persName n="urn:cite:hmt:pers.pers362"
-                                    >Σχεδίος</persName> ὁμώνυμος τῷ ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:2.494-2.877">Καταλόγῳ</ref></title> καὶ
-                                ἀμφότεροι ὑφ' <persName n="urn:cite:hmt:pers.pers172"
-                                    >Ἕκτορος</persName> ἀνῄρηνται. ἀλλ' ἐκεινος μεν <persName
-                                    n="urn:cite:hmt:pers.pers365">Ἰφίτου</persName> πατρός οὗτος δὲ
-                                    <persName n="urn:cite:hmt:pers.pers364">Περιμήδους</persName>. ἡ
-                                δὲ ἀναφορὰ προς τὰ περι <persName n="urn:cite:hmt:pers.pers820"
+                                    >Σχεδίος</persName> ὁμώνυμος τῷ ἐν <title><ref type="urn"
+                                        n="urn:cts:greekLit:tlg0012.tlg001:2.494-2.877"
+                                        >Καταλόγῳ</ref></title> καὶ ἀμφότεροι ὑφ' <persName
+                                    n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> ἀνῄρηνται. ἀλλ'
+                                ἐκεινος μεν <persName n="urn:cite:hmt:pers.pers365"
+                                    >Ἰφίτου</persName> πατρός οὗτος δὲ <persName
+                                    n="urn:cite:hmt:pers.pers364">Περιμήδους</persName>. ἡ δὲ
+                                ἀναφορὰ προς τὰ περι <persName n="urn:cite:hmt:pers.pers820"
                                         ><persName n="urn:cite:hmt:pers.pers415"
                                         >Πυλαιμενοῦς</persName></persName> ⁑</p>
                         </div>
@@ -2965,8 +2967,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.525</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι οὕτος <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωϊκὸς</rs> <persName n="urn:cite:hmt:pers.pers994"
-                                    >Δόλοψ</persName>
+                            <p>ὅτι οὕτος <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρωϊκὸς</rs>
+                                <persName n="urn:cite:hmt:pers.pers994">Δόλοψ</persName>
                                 <persName n="urn:cite:hmt:pers.pers511">Λάμπου</persName>
                                 <choice>
                                     <abbr>υς</abbr>
@@ -2980,7 +2983,9 @@
                                         n="urn:cts:greekLit:tlg0012.tlg001:11">Λ</ref>
                                 </title> Δόλοπι <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.302</ref>
-                                    <q>καὶ <persName n="urn:cite:hmt:pers.pers994">Δόλοπα Κλυτίδην</persName> καὶ <persName n="urn:cite:hmt:pers.pers516">Ὀφέλτιον</persName></q>
+                                    <q>καὶ <persName n="urn:cite:hmt:pers.pers994">Δόλοπα
+                                            Κλυτίδην</persName> καὶ <persName
+                                            n="urn:cite:hmt:pers.pers516">Ὀφέλτιον</persName></q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
@@ -2988,35 +2993,39 @@
 
                     <div n="150" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τόν ρ' εφόρει γυάλοισιν</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.530</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὰ κύτη καὶ τὰ κοιλώματα τοῦ θώρακος γύαλα οὐχ' ὡρισμένος τόπος
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="151" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἤγαγεν ἐξ Εφύρης:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.531</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τῆς Θεσπρωτιακῆς Ἐφύρας λέγει, οὐκ εκ τῆς Κορίνθ//Κορίνθου δῆλον
+                                δὲ ἐκ τοῦ Σελλήεντος ἀφ' οὗ καὶ Σελλοὶ οἱ περίοικοι. καὶ ὅτι ἐπ'
+                                Ασίῳ ἕτερός ἐστι Σελλήεις ποταμός ⁑</p>
                         </div>
                     </div>
                     <div n="152" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>κύμβαχον:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.536</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ διάκενον, τὸ ὑπερ τῆς κορυφῆς ὅθεν καὶ κυβισταν', ἐπεξηγεῖται δὲ
+                                δια τῆς ἑξῆς λέξεως τὸ ὄνομα διὰ τοῦ ἀκρότατον ⁑</p>
                         </div>
                     </div>
                     <div n="153" type="scholion">
