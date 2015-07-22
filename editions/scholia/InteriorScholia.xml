@@ -638,10 +638,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.513</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> <choice><abbr>ουτ</abbr><expan>οὕτω</expan></choice> γραπτέον ὦδ' αύτως,</p>
                         </div>
                     </div>
                     <!-- 201v -->

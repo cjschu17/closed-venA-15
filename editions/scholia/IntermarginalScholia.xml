@@ -946,7 +946,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.495</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> διαστελλει τὸ <q>βαλεῖν</q> καὶ <q>τύψαι</q> ⁑</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> διαστελλει τὸ <q>βαλεῖν</q> καὶ <q>τύψαι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="58" type="scholion">
@@ -967,10 +970,23 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.513</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> το <choice>
+                                    <abbr>ωδ</abbr>
+                                    <expan>ὦδε</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <!-- 201v -->
