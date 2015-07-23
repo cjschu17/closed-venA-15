@@ -345,15 +345,26 @@
                     </div>
                     <!-- 201v -->
 
+                    <div n="27a" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.529@θώρηξ</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦ <persName n="urn:cite:hmt:pers.pers497">Μέγητος</persName></p>
+                        </div>
+                    </div>
                     <div n="28" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.539@ὃ</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers497">Μέγης</persName></p>
                         </div>
                     </div>
                     <div n="29" type="scholion">
@@ -361,10 +372,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.544@ἐεισάσθην</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐπῆλθον</p>
                         </div>
                     </div>
                     <div n="30" type="scholion">
@@ -372,10 +383,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.547@ὄφρα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ όφρα <choice><abbr>αντ</abbr><expan>αντὶ</expan></choice> τοῦ τέως</p>
                         </div>
                     </div>
                     <!-- 202r -->

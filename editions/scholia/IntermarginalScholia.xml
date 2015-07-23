@@ -995,10 +995,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.531</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> ἐν αλλῳ <q>ηγάγετ' ἐξ Εφύρης</q> ⁑</p>
                         </div>
                     </div>
                     <div n="61" type="scholion">
@@ -1006,10 +1006,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.540</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γράφεται ἐν ἄλλῳ <q>ἠλθ' ἐπαμύντωρ</q></p>
                         </div>
                     </div>
                     <div n="62" type="scholion">
@@ -1017,10 +1017,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.541</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>το λαθὼν τάχα ἂν δύναιτο καὶ τοῖς ἑξῆς <w>συντάτε<unclear>ττ</unclear>εσθαι</w></p>
                         </div>
                     </div>
                     <!-- 202r -->

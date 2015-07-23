@@ -59,7 +59,7 @@
                         </div>
                         <div type="comment">
                             <p>δια τοῦ <rs type="waw">η</rs>, <del>εὶχον</del>
-                                <q>μέμνῃ</q> εῖχον πᾶσαι: </p>
+                                <q>μέμνῃ</q> εῖχον πᾶσαι⁚ </p>
                         </div>
                     </div>
 
@@ -74,7 +74,7 @@
                             <p>ὅτι ὁ μακρὸς ὁ <placeName n="urn:cite:hmt:place.place45"><choice>
                                         <abbr>ολυμπ</abbr>
                                         <expan>Ὄλυμπος</expan>
-                                    </choice></placeName> ὡς όρος :</p>
+                            </choice></placeName> ὡς όρος⁚</p>
                         </div>
                     </div>
                     <div n="5" type="scholion">
@@ -645,18 +645,6 @@
                         </div>
                     </div>
                     <!-- 201v -->
-
-                    <div n="40" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
                     <!-- 202r -->
 
                     <div n="41" type="scholion">
