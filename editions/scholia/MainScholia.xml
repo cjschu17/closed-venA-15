@@ -400,7 +400,7 @@
 
                     <div n="18" type="scholion">
                         <div type="lemma">
-                            <p>‡ πεπιθοῦσα θυέλλας:</p>
+                            <p>‡ πεπιθοῦσα θυέλλας⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.26</p>
@@ -474,13 +474,13 @@
                     </div>
                     <div n="22" type="scholion">
                         <div type="lemma">
-                            <p>μὴ δι εμὴν ἰ̈ότητα:</p>
+                            <p>μὴ δι εμὴν ἰ̈ότητα⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.41</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι παρακέκρουσται τὸν ὄρκον· οὐ γὰρ δια τὴν αὐτῆς βούλησιν ὁ
+                            <p>ὅτι παρακέκρουσται τὸν <sic>ὄρκον</sic>· οὐ γὰρ δια τὴν αὐτῆς βούλησιν ὁ
                                     <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> τοῖς
                                     <rs type="ethinc" n="urn:cite:hmt:place.place3">Ἕλλησι</rs>
                                 βοηθεῖ· αὕτη μέντοι συνεργεῖ καὶ κοιμήσασα τὸν <persName
@@ -499,18 +499,18 @@
                         </div>
                         <div type="comment">
                             <p>ἀντι τοῦ <q>οὐ δι' ἐμὴν γνώμην <persName n="urn:cite:hmt:pers.pers47"
-                                        >ποσειδὼν</persName>
+                                        >Ποσειδὼν</persName>
                                     <rs type="ethinc" n="urn:cite:hmt:place.place3">ἕλλησι</rs>
                                     βοηθεῖ</q>· <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.36</ref>
                                     <q>ἴστω <persName n="urn:cite:hmt:pers.pers43">Γῆ</persName> καὶ
                                             <persName n="urn:cite:hmt.pers.pers901"
                                             >Οὐρανὸς</persName></q>
-                                </cit> τοῦτο καὶ οἱ ἄλλοι ὄρκοι· <q>οὐ δι' ἐμὴν γνώμην <persName
+                                </cit> τοῦτο καὶ οἱ ἄλλοι <sic>ὄρκοι</sic>· <q>οὐ δι' ἐμὴν γνώμην <persName
                                         n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName>
                                     <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλλησι</rs>
                                     βοηθεῖ</q>. πληρέστατος δ ἂν ᾖ ὁ λόγος εἰ καὶ σύνδεσμος ἔκειτο ὁ
-                                ὅτι η ῶς· καὶ συνήπτετο ἂν τοῖς ἐπάνω ἵν' ᾖ τοιαύτη ἡ φράσις <cit>
+                                ὅτι η <sic>ῶς</sic>· καὶ συνήπτετο ἂν τοῖς ἐπάνω ἵν' ᾖ τοιαύτη ἡ φράσις <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.36</ref>
                                     <q>ἴστω <persName n="urn:cite:hmt:pers.pers43">Γῆ</persName> καὶ
                                             <persName n="urn:cite:hmt.pers.pers901"
