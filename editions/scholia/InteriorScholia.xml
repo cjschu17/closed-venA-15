@@ -74,7 +74,7 @@
                             <p>ὅτι ὁ μακρὸς ὁ <placeName n="urn:cite:hmt:place.place45"><choice>
                                         <abbr>ολυμπ</abbr>
                                         <expan>Ὄλυμπος</expan>
-                            </choice></placeName> ὡς όρος⁚</p>
+                                    </choice></placeName> ὡς όρος⁚</p>
                         </div>
                     </div>
                     <div n="5" type="scholion">
@@ -589,7 +589,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.395</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι <choice><abbr>ἐλλειπ</abbr><expan>ἐλλείπει</expan></choice> ἡ <q>ἐπὶ</q> <q>τεῖχος</q> ⁑</p>
+                            <p>ὅτι <choice>
+                                    <abbr>ἐλλειπ</abbr>
+                                    <expan>ἐλλείπει</expan>
+                                </choice> ἡ <q>ἐπὶ</q>
+                                <q>τεῖχος</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 199r -->
@@ -599,10 +603,16 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.412</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἅπαξ <choice>
+                                    <abbr>ἐνταυθ</abbr>
+                                    <expan>ἐνταῦθα</expan>
+                                </choice> σοφίαν ὼνομασεν τὴν τεκτονικὴν τέχνην ⁑</p>
                         </div>
                     </div>
                     <div n="37" type="scholion">
@@ -610,10 +620,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.417</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:hmt:pers.pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <q>νῆα</q>· ἀλλοι δὲ <q>νῆας</q>⁚</p>
                         </div>
                     </div>
                     <!-- 199v -->
@@ -627,7 +637,18 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.462</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἐνήλλακται ἡ πτῶσις <q><persName n="urn:cite:hmt:pers.pers243"><sic>Τοῦκρον</sic></persName></q> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> <q><persName n="urn:cite:hmt:pers.pers243">Τεύκρου</persName></q> ⁑</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἐνήλλακται ἡ πτῶσις <q><persName
+                                        n="urn:cite:hmt:pers.pers243"
+                                    ><sic>Τοῦκρον</sic></persName></q>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q><persName n="urn:cite:hmt:pers.pers243">Τεύκρου</persName></q>
+                                ⁑</p>
                         </div>
                     </div>
                     <!-- 200v -->
@@ -641,7 +662,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.513</p>
                         </div>
                         <div type="comment">
-                            <p> <choice><abbr>ουτ</abbr><expan>οὕτω</expan></choice> γραπτέον ὦδ' αύτως,</p>
+                            <p>
+                                <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτω</expan>
+                                </choice> γραπτέον ὦδ' αύτως,</p>
                         </div>
                     </div>
                     <!-- 201v -->
@@ -655,7 +680,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.558</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName></p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6"
+                                    >Ἴλιον</placeName></p>
                         </div>
                     </div>
                     <div n="42" type="scholion">
@@ -666,7 +695,14 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.571</p>
                         </div>
                         <div type="comment">
-                            <p>ὁ <choice><abbr>σύνδ</abbr><expan>σύνδεσμος</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q>εἴθε</q> διοπερ οὐδὲ ὑποστιγμήν ⁑</p>
+                            <p>ὁ <choice>
+                                    <abbr>σύνδ</abbr>
+                                    <expan>σύνδεσμος</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <q>εἴθε</q> διοπερ οὐδὲ ὑποστιγμήν ⁑</p>
                         </div>
                     </div>
                     <!-- 202v -->
