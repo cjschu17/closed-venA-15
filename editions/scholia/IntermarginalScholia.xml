@@ -1020,21 +1020,21 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.541</p>
                         </div>
                         <div type="comment">
-                            <p>το λαθὼν τάχα ἂν δύναιτο καὶ τοῖς ἑξῆς <w>συντάτε<unclear>ττ</unclear>εσθαι</w></p>
+                            <p>το λαθὼν τάχα ἂν δύναιτο καὶ τοῖς ἑξῆς
+                                        <w>συντάτε<unclear>ττ</unclear>εσθαι</w></p>
                         </div>
                     </div>
                     <!-- 202r -->
-
-
                     <div n="63" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.554</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὴν <rs type="waw">ψι</rs> συλλαβὴν ἐκτατέον διὰ <add
+                                    place="supralinear">τὸ</add> μέτρον ⁑</p>
                         </div>
                     </div>
                     <div n="64" type="scholion">
@@ -1042,10 +1042,15 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.563</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>
+                                <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> χωρὶς
+                                τοῦ <q>δε</q> αλλοι δε <choice>
+                                    <abbr>μετ</abbr>
+                                    <expan>μετὰ</expan>
+                                </choice> τοῦ <q>δε</q> <q>αἰδομένων// δ' ἀνδρῶν</q> ⁑</p>
                         </div>
                     </div>
 
