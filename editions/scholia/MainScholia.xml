@@ -196,18 +196,18 @@
                                             n="urn:cite:hmt:pers.pers19">Θέτιν</persName>. ἀμφι δέ
                                         τ' ἄλλαι εἴαθ' ὁμηγερέες</q>
                                 </cit> ἐκδέχεταί τὲ κλῆσιν τὴν ἀπο τοῦ <q>εἰμί</q> εἰς παθητικοῦ
-                                <sic>ὑπερσυντελικοῦ</sic> <choice>
+                                    <sic>ὑπερσυντελικοῦ</sic>
+                                <choice>
                                     <abbr>χρ</abbr>
                                     <expan>χρόνον</expan>
                                 </choice> καὶ μεταλαμβάνει εἰς τὸ ὑπῆρχον· ἔχει δὲ ἐπί τασιν, εἰ τοῦ
                                     <q>ειμι</q> τὰ παθητικὰ δύναται συστῆναι κατα σημαινόμενον, ἢ
                                 χρῆσιν <rs type="ethnic" n="urn:cite:hmt:place.place3"
                                     >Ἑλληνικήν</rs>· δι ὃ ἄμεινον δασύνειν. καὶ ἐκδέχεσθαι
-                                ἐνδιέτριβον. καὶ ἐκάθηντο· καὶ γὰρ ἁρμόζον τοῖς ὑποκειμένοις
-                                κεῖσθαι μὲν τὸν <persName n="urn:cite:hmt:pers.pers172"
-                                    >Ἕκτορα</persName> περικαθέζεσθαι δὲ αὐτὸν τοὺς ἑτέρους
-                                συγκάμνοντας αὐτὸς τὲ ὁ ποιητής ἔκλινε τὸ ῥῆμα τοῦτο τριχῶς· πῆ μὲν
-                                κοινῶς εἰπὼν <cit>
+                                ἐνδιέτριβον. καὶ ἐκάθηντο· καὶ γὰρ ἁρμόζον τοῖς ὑποκειμένοις κεῖσθαι
+                                μὲν τὸν <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName>
+                                περικαθέζεσθαι δὲ αὐτὸν τοὺς ἑτέρους συγκάμνοντας αὐτὸς τὲ ὁ ποιητής
+                                ἔκλινε τὸ ῥῆμα τοῦτο τριχῶς· πῆ μὲν κοινῶς εἰπὼν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.153</ref>
                                     <q>τοῖοι δ' ἄρα <rs type="ethnic" n="urn:cite:hmt:place.place6"
                                             >Τρώων</rs> ἡγήτορες ῆν τῶν ἐπι πύργων</q>
@@ -3090,32 +3090,40 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.548</p>
                         </div>
                         <div type="comment">
-                            <p>ὁμοίως τῷ <q>ἐν <placeName n="urn:cite:hmt:place.place">Οἰνώνῃ</placeName></q> τὴν δὲ <q>ἀπο</q> πρόθεσιν, οὐκ αναστρεπτέον προς
-                                γὰρ τὴν <q>εόντων</q> μετοχὴν συντέτακται ⁑</p>
+                            <p>ὁμοίως τῷ <q>ἐν <placeName n="urn:cite:hmt:place.place101"
+                                        >Οἰνώνῃ</placeName></q> τὴν δὲ <q>ἀπο</q> πρόθεσιν, οὐκ
+                                αναστρεπτέον προς γὰρ τὴν <q>εόντων</q> μετοχὴν συντέτακται ⁑</p>
                         </div>
                     </div>
                     <!-- 202r -->
 
                     <div n="157" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὐχ ὁράας οῖον <persName n="urn:cite:hmt:pers.pers515"
+                                    >Δόλοπος</persName> περι τεῦχε,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.555</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> οὐκ
+                                ἀναστρέφει τὴν <q>περι</q> εἶναι γὰρ τὸ ἑξῆς <q>περιέπουσι</q>· καγὼ
+                                δὲ αὐτῷ συγκατατίθεμαι ἐπεὶ καὶ τὸ ῥῆμα τοῦτο τὸ <q>ἕπω</q> παρα τῷ
+                                ποιητῇ ἐν τοῖς ἐνεργητικοῖς κινήμασιν ὡς ἐπι τὸ πλεῖστον θέλει ἔχειν
+                                πρόθεσιν συντεταγμένην ⁑</p>
                         </div>
                     </div>
                     <div n="158" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>αἱδομένων δ' ἀνδρῶν·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.563</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>χωρὶς τοῦ συνδέσμου ἔγραφεν <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName>. πάντως ἵνα ἀσύνδετος γενόμενος ὁ λόγος.
+                                πλέον τὲ διαστῇ καὶ μᾶλλον ἐμφήνῃ ⁑</p>
                         </div>
                     </div>
                     <!-- 202v -->
