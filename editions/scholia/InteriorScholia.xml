@@ -115,7 +115,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.49</p>
                         </div>
                         <div type="comment">
-                            <p>περιττεύει τὸ <q>ἔπειτα</q>:</p>
+                            <p>περιττεύει τὸ <q>ἔπειτα</q>⁚</p>
                         </div>
                     </div>
                     <!-- folio 192r -->
@@ -200,7 +200,7 @@
                                     <abbr>οτ</abbr>
                                     <expan>ὅτι</expan>
                                 </choice> οὐδαμοῦ τὸν <persName n="urn:cite:hmt:pers.pers1"
-                                    >Αχιλλέα</persName> πτολίπορθον:</p>
+                                    >Αχιλλέα</persName> πτολίπορθον⁚</p>
                         </div>
                     </div>
                     <div n="13" type="scholion">
@@ -652,10 +652,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.558</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName></p>
                         </div>
                     </div>
                     <div n="42" type="scholion">
@@ -663,10 +663,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.571</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁ <choice><abbr>σύνδ</abbr><expan>σύνδεσμος</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q>εἴθε</q> διοπερ οὐδὲ ὑποστιγμήν ⁑</p>
                         </div>
                     </div>
                     <!-- 202v -->
