@@ -111,11 +111,11 @@
                             <p> ἡ <q>ὑπο</q> πρόθεσις <q>ὑπαὶ</q> ἐγένετο ὁμοίως τῇ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:2.824</ref>
                                     <q>ὑπαι πόδα νείατον <placeName n="urn:cite:hmt:place.place89"
-                                            >ἴδης</placeName></q>
+                                            >Ἴδης</placeName></q>
                                 </cit> καὶ ἐστι τὸ ἑξῆς <q>ὑπο δέους</q> οὕτως καὶ <persName
-                                    n="urn:cite:hmt:pers.pers16">ἀρίσταρχος</persName> δι ὃ
+                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> δι ὃ
                                 παραιτητέον τὸν <persName n="urn:cite:hmt:pers.pers105"
-                                    >τυραννίωνα</persName> βαρύνοντα τὴν <q>ὑπαι</q> καὶ ἡγούμενον
+                                    >Τυραννίωνα</persName> βαρύνοντα τὴν <q>ὑπαι</q> καὶ ἡγούμενον
                                 ἀπο τοῦ <q>ὕπαιθα</q> εἶναι πάθος τὸ τῆς ἀποκοπῆς ἕως δὲ τοῦ <q>ὑπαι
                                     δείους</q> ὀφείλομεν ἀναπαύεσθαι· οὐ γὰρ πιθανὸν ἕως τοῦ
                                     <q>χλωροὶ</q> εἶτα <q>πεφοβημένοι</q> τοῦτέστι <q>φεύγοντες</q>·
@@ -789,7 +789,7 @@
                     <!-- folio 193r -->
                     <div n="34" type="scholion">
                         <div type="lemma">
-                            <p>‡ ἡ δὲ γέλασσε χειλεσιν:</p>
+                            <p>‡ ἡ δὲ γέλασσε χειλεσιν ⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.101-15.103</p>
@@ -839,9 +839,9 @@
                     </div>
                     <div n="37" type="scholion">
                         <div type="lemma">
-                            <p>ὡς φάτο καί ρ’ ἵππους κέλετο <persName n="urn:cite:hmt:pers.pers481"
+                            <p>ὡς φάτο καί ρ' ἵππους κέλετο <persName n="urn:cite:hmt:pers.pers481"
                                     >Δεῖμόν</persName> τε <persName n="urn:cite:hmt:pers.pers482"
-                                    >Φοβον</persName> τε:</p>
+                                        >Φοβον</persName> τε ⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.119</p>
