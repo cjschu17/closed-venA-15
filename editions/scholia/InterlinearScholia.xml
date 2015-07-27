@@ -410,26 +410,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.602@ὀρέξεαι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><rs type="waw">ειν</rs></p>
                         </div>
                     </div>
                     <!-- 203v -->
                     <!-- 204r -->
-
-                    <div n="33" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
                     <!-- 204v -->
 
                     <div n="34" type="scholion">
@@ -437,10 +425,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.679@ἵπποισι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἱππεύειν</p>
                         </div>
                     </div>
                     <div n="35" type="scholion">
@@ -448,10 +436,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.684@ἀμείβεται</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>μεταβαίνει</p>
                         </div>
                     </div>
                     <!-- 205r -->
@@ -462,10 +450,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.738@ἑτεραλκέα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q>ἑτέραν αλκήν</q>·</p>
                         </div>
                     </div>
 
