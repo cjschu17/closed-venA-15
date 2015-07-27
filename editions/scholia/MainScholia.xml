@@ -3872,62 +3872,80 @@
 
                     <div n="195" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ θρῆνυν⁚</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.729</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὑποπόδιον. <q>θρῆνυν</q> δὲ βέλτιον καλεῖσθαι ὑπο <persName
+                                n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName> τὰς καθέδρας τῶν ἐρετῶν· ἀναχωρῶν
+                                γὰρ ἀπο τῆς νεῶς κατα τῶν στρωμάτων ἐπι ταύτας ἀφικνεῖται· τινὲς δὲ τόπον τῆς νεὼς
+                                βάσιν ἔχοντα ἐφ οὗ τὸν κυβερνήτην τοὺς πόδας τιθέναι ὃ καὶ ἐδωλιον φασίν ἄλλοι δὲ
+                                τὴν ὑποδεχομενην τὸν ἱστὸν τράπεζαν εἶπον· οἱ δὲ διαβάθραν ἀπο νεὸς εἰς νῆα ⁑</p>
                         </div>
                     </div>
                     <div n="196" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἔνθ ὰρ ὅ γ' ἐστήκει,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.730</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι παθητικῶς <q>δεδοκημένως</q> ἀντὶ τοῦ <q>δοκεύων</q> ἐπιτηρῶν ὡς <cit><ref
+                                type="urn">urn:cts:greekLit:tlg0012.tlg002:10.238</ref><q>ῥάβδῳ
+                                    πεπληγυῖα</q></cit> ⁑</p>
                         </div>
                     </div>
                     <div n="197" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἦέ τινας φαμέν εἶναι⁚</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.735</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ <q>φαμὲν</q> ἐντελές ἐστι καὶ ἐνεστῶτα χρόνον σημαίνει διὸ τὰς δύο συλλαβὰς
+                                βαρυτονητέον· εἰ μέντοι παρατατικὸς γίνοιτο. δῆλον ὅτι ἀποβολὴν χρόνου τοῦ κατ ἀρχὴν
+                                πάσχει καὶ ἐπὶ τὴν <rs type="waw">φα</rs> συλλαβὴν ἡ ὀξεῖα τάσις ἔσται· ὅμοιον ὡς τὸ
+                                <q>ἔφαμεν</q> εντελεῖ ὥσπερ ἐπ εκείνου <cit><ref type="urn"
+                                    >urn:cts:greekLit:tlg0012.tlg002:4.664</ref><q>φαμὲν δέ οἱ οὐ
+                                        τελέεσθαι</q></cit> ὅπερ οὐκ επιζητεῖ νῦν ἡ διάνοια ⁑</p>
                         </div>
                     </div>
                     <div n="198" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τῶ ἐν χερσὶ φόως· </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.741</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> κατα δοτικὴν ἔγραφεν
+                                συνάπτων δηλονότι ὅλον τὸν στίχον ἔσται δὲ
+                                <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> τὸ ἑξῆς <q>τῶ ἐν
+                                    χερσίν οὐ μειλιχίχιῃ</q> τελος πολέμοιο οἶον ἐν τῷ δόρατι οὐκ εν προσηνεία οὐδ'
+                                ἐν ἀργίᾳ κεῖται ἡ τοῦ πολέμου σωτηρία· <persName n="urn:cite:hmt:pers.pers211"
+                                    >Διονύσιος</persName> δὲ ὁ <placeName n="urn:cite:hmt:pers.pers70"
+                                        >Θρᾷξ</placeName> κατ ευθεῖαν πτῶσιν ᾧ ἀκόλουθόν ἐστι στίζειν ἐπι τὸ φόως τελείᾳ
+                                στιγμὴ καὶ ἔσται καθε αὑτὸ ἑκάτερον ἡμιστίχιον· ὁ δε λόγος. διόπερ ἐν χερσὶν ἡ
+                                <choice><abbr>σρια</abbr><expan>σωτηρία</expan></choice>, προσήνειᾳ δὲ οὐκ
+                                έστι πολέμου ⁑</p>
                         </div>
                     </div>
                     <div n="199" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὐ μειλιχίῃ,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.741</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>σὺν τῷ <rs type="waw">ϊ</rs> τὸ μειλιχίῃ τὸ γὰρ λεγόμενον τοιοῦτο, διὸ τὸ τοῦ πολέμου φῶς ἡμῖν ἐν ταῖς
+                                χερσὶν οὐκ εν τῇ μειλιχίᾳ ἁπαντήσει ⁑</p>
                         </div>
                     </div>
-
-
-
 
 
                 </body>
