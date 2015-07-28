@@ -1214,7 +1214,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.187</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ὀ ΐδιος αὐτὸν τῆς βασιλείας μεταστήσει υἱὸς , τὰ γεννώμενα
+                            <p>ὅτι <sic>ὀ</sic> ΐδιος αὐτὸν τῆς βασιλείας μεταστήσει υἱὸς , τὰ γεννώμενα
                                 κατέπινεν <persName n="urn:cite:hmt:pers.pers208">Ῥέα</persName> δὲ
                                 τεκοῦσα <persName n="urn:cite:hmt:pers.pers8">Δία</persName>,
                                     <persName n="urn:cite:hmt:pers.pers139">Κρόνῳ</persName> μὲν
@@ -1340,7 +1340,7 @@
                                             <expan>Ὀδυσσείᾳ</expan>
                                         </choice></ref></title>. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.21</ref>
-                                    <q>ναῖετ’ ἀνα δ’ <placeName n="urn:cite:hmt:place.place63"
+                                    <q>ναῖετ’ ἀνα δ' <placeName n="urn:cite:hmt:place.place63"
                                             >Ἰ̈θάκην</placeName> εὐδείελον ἐν δ' όρος αὐτῆ</q>
                                 </cit> κεχώρηκε γὰρ τὸ ὄρος τῆς <placeName
                                     n="urn:cite:hmt:place.place63">Ἰθακης</placeName> οὐχ ὡς μη ὂν
@@ -2710,7 +2710,7 @@
                                     <expan>λόγου</expan>
                                 </choice> ὁμοίως τῷ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.45</ref>
-                                    <q><sic>ἀμφιρεφέα</sic> τε φαρέτρην</q>
+                                    <q>ἀμφιρεφέα τε φαρέτρην</q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
@@ -2728,7 +2728,7 @@
                     </div>
                     <div n="135" type="scholion">
                         <div type="lemma">
-                            <p>νευρὴν δ' ἐξέρρηξε νεόστροφον ἣν ἐνέδησα πρώϊον⁚</p>
+                            <p>νευρὴν δ' ἐξέρρηξε νεόστροφον ἣν ἐνέδησα πρώϊον:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.469-15.470</p>
@@ -2745,7 +2745,7 @@
                     </div>
                     <div n="136" type="scholion">
                         <div type="lemma">
-                            <p>πρώϊον, ὄφρ' ἀνέχοιτο⁚</p>
+                            <p>πρώϊον, ὄφρ' ἀνέχοιτο:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.470</p>
@@ -2766,7 +2766,7 @@
 
                     <div n="137" type="scholion">
                         <div type="lemma">
-                            <p>κρατὶ δ' ἐπ' <sic>ἰφθήμῳ</sic>,</p>
+                            <p>κρατὶ δ' ἐπ' ἰφθήμῳ,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.480</p>
@@ -2808,7 +2808,7 @@
                     </div>
                     <div n="140" type="scholion">
                         <div type="lemma">
-                            <p><sic>ἢμεν</sic> ὁτεοισιν.</p>
+                            <p>ἢμεν ὁτεοισιν.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.491</p>
@@ -2822,16 +2822,16 @@
                     </div>
                     <div n="141" type="scholion">
                         <div type="lemma">
-                            <p>ὃς δέ κεν <sic>ὕμεων</sic>.</p>
+                            <p>ὃς δέ κεν ὕμεων.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.494</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ <q><sic>ὕμεων</sic></q> ἀντωνυμία, ἀπόλυτός ἐστι. καὶ οὐκ έχουσα <choice>
+                            <p>ἡ <q>ὕμεων</q> ἀντωνυμία, ἀπόλυτός ἐστι. καὶ οὐκ έχουσα <choice>
                                     <abbr>ἀντιδιαστο</abbr>
                                     <expan>ἀντιδιαστολήν</expan>
-                            </choice>· διο̏ τρίτην ἀπο τέλους ἔχει τὴν <sic>ὀξείαν</sic> ⁑</p>
+                                </choice>· \\διὸ\\ τρίτην ἀπο τέλους ἔχει τὴν ὀξείαν ⁑</p>
                         </div>
                     </div>
 
