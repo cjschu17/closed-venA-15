@@ -387,7 +387,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.161</p>
                         </div>
                         <div type="comment">
-                            <p>γράφεται καὶ <q>ἔρχεσθ' ἠ μετα φύλα</q> ⁑</p>
+                            <p>γράφεται καὶ <q>ἔρχεσθ' ἠ μετα <sic>φύλα</sic></q> ⁑</p>
                         </div>
                     </div>
                     <div n="24" type="scholion">
@@ -934,8 +934,7 @@
                                     <abbr>οτ</abbr>
                                     <expan>ὅτι</expan>
                                 </choice>
-                                <q>ασπουδι</q> χωρὶς <w>κακοπα<add place="supralinear"
-                                    >εθας</add></w> ⁑ </p>
+                                <q>ασπουδι</q> χωρὶς κακοπαθείας ⁑ </p>
                         </div>
                     </div>
                     <div n="57" type="scholion">
