@@ -2766,7 +2766,7 @@
 
                     <div n="137" type="scholion">
                         <div type="lemma">
-                            <p>κρατὶ δ' ἐπ' ἰφθήμῳ,</p>
+                            <p>κρατὶ δ' ἐπ' <sic>ἰφθήμῳ</sic>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.480</p>
@@ -2808,7 +2808,7 @@
                     </div>
                     <div n="140" type="scholion">
                         <div type="lemma">
-                            <p>ἢμεν ὁτεοισιν.</p>
+                            <p><sic>ἢμεν</sic> ὁτεοισιν.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.491</p>
@@ -2822,16 +2822,16 @@
                     </div>
                     <div n="141" type="scholion">
                         <div type="lemma">
-                            <p>ὃς δέ κεν ὕμεων.</p>
+                            <p>ὃς δέ κεν <sic>ὕμεων</sic>.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.494</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ <q>ὕμεων</q> ἀντωνυμία, ἀπόλυτός ἐστι. καὶ οὐκ έχουσα <choice>
+                            <p>ἡ <q><sic>ὕμεων</sic></q> ἀντωνυμία, ἀπόλυτός ἐστι. καὶ οὐκ έχουσα <choice>
                                     <abbr>ἀντιδιαστο</abbr>
                                     <expan>ἀντιδιαστολήν</expan>
-                                </choice>· \\διὸ\\ τρίτην ἀπο τέλους ἔχει τὴν ὀξείαν ⁑</p>
+                            </choice>· διο̏ τρίτην ἀπο τέλους ἔχει τὴν <sic>ὀξείαν</sic> ⁑</p>
                         </div>
                     </div>
 
