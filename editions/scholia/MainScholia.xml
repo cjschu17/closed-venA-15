@@ -1352,7 +1352,7 @@
                                             <expan>Ὀδυσσείᾳ</expan>
                                         </choice></ref></title>. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.21</ref>
-                                    <q>ναῖετ’ ἀνα δ' <placeName n="urn:cite:hmt:place.place63"
+                                    <q><sic>ναῖετ'</sic> ἀνα δ' <placeName n="urn:cite:hmt:place.place63"
                                             >Ἰ̈θάκην</placeName> εὐδείελον ἐν δ' όρος αὐτῆ</q>
                                 </cit> κεχώρηκε γὰρ τὸ ὄρος τῆς <placeName
                                     n="urn:cite:hmt:place.place63">Ἰθακης</placeName> οὐχ ὡς μη ὂν
@@ -1369,14 +1369,14 @@
                     </div>
                     <div n="61" type="scholion">
                         <div type="lemma">
-                            <p>τῶ ρα καὶ οὔ τι Διὸς βεόμαι φρεσὶν</p>
+                            <p>τῶ ρα καὶ οὔ τι <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> βέομαι φρεσὶν</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.194</p>
                         </div>
                         <div type="comment">
                             <p>δι ὃ οὐκ ἂν κατα τὴν αὐτοῦ γνώμην βιώσομαι ἀλλα κατα τὴν ἑαυτοῦ.
-                                Δημήτριος δὲ ἀποβήσομαι εἴξῳ οὕτως ἔχειν. καὶ τὸ <cit>
+                                Δημήτριος δὲ ἀποβήσομαι εἴξω· οὕτως ἔχειν. καὶ τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.852</ref>
                                     <q>οὐ γάρ μοι δηρὸν βέῃ</q>
                                 </cit>, οὐ προβήσῃ κατὰ τὸ ζην πολὺν χρόνον </p>
@@ -1393,7 +1393,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.196</p>
                         </div>
                         <div type="comment">
-                            <p>ὁ νοῦς, μηδὲ ὡς χερσὶ κακὸν. ὄντα ἐις δεος ἀγέτω. ἠ ὠς κακὸν ὄντα ἐις
+                            <p>ὁ νοῦς, μηδὲ ὡς χερσὶ κακὸν. ὄντα εἰς δεος ἀγέτω. ἠ <sic>ὠς</sic> κακὸν ὄντα εἰς
                                 τὸν διὰ χειρῶν ἀγέτω πόλεμον, ἣ ὡς χερσὶν ὑπερέχων ⁑ </p>
                         </div>
                     </div>
@@ -1406,7 +1406,7 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
-                                <q>βέλτερον</q>· οἱ δε εἰκαιότεροι γράφουσι <q>κέρδιον εἴῃ</q>
+                                <q>βέλτερον</q>· οἱ δε εἰκαιότεροι γράφουσι <q>κέρδιον εἴη·</q>
                                 <persName n="urn:cite:hmt:pers.pers21"><choice>
                                         <abbr>Ἀριστοφα</abbr>
                                         <expan>Ἀριστοφάνης</expan>
@@ -1416,13 +1416,13 @@
                     </div>
                     <div n="64" type="scholion">
                         <div type="lemma">
-                            <p>οἵ ἐθεν·</p>
+                            <p>οἵ <sic>ἐθεν</sic>·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.199</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ θέν νῦν ἀπόλυτός ἐστι καὶ ἐγκλη̈τικῇ δια τὸ <rs type="waw">οι</rs>
+                            <p>ἡ <rs type="waw">θέν</rs> νῦν ἀπόλυτός ἐστι καὶ <sic>ἐγκλη̈τικῇ</sic> δια τὸ <rs type="waw">οι</rs>
                                 ἄρθρον ὀξυτονοῦμεν ⁑</p>
                         </div>
                     </div>
@@ -1445,13 +1445,13 @@
                                     <expan>ποιητὴς</expan>
                                 </choice> τὴν κοσμικὴν αἰνίττεται φυσιν. δια μεν τὸν ἀνωτάτω
                                 ὑποτιθέμενος διάπυρον ἀέρα <persName n="urn:cite:hmt:pers.pers116"
-                                    >Ήραν</persName> δὲ τὸν δευτερον <del/> καὶ ταύτην φησὶν ὑπ’
+                                    >Ήραν</persName> δὲ τὸν δευτερον <del/> καὶ ταύτην φησὶν ὑπ'
                                     <persName n="urn:cite:hmt:pers.pers123">Ὠκεανοῦ</persName>
                                 τεθράφθαι ἐπει δὴ ἐκ τῆς ὑγρῶν ἀναθυμιάσεως γινεται ὁ αηρ, ἄκμονας
-                                δὲ γῆν καὶ θάλασσαν λέγε· χρυσσοῦν δὲ δεσμὸν. τὸ αἰθέριον πῦρ ὅτι ἐν
+                                δὲ γῆν καὶ θάλασσαν λέγε· χρυσοῦν δὲ δεσμὸν. τὸ αἰθέριον πῦρ ὅτι ἐν
                                 τῷ ἀνωτάτῳ μέρει συνῆπται αὐτῷ ὁ ἀήρ, καὶ ῥιπτόμενον τὸν <persName
                                     n="urn:cite:hmt:pers.pers192">Ἤφαιστον</persName> εἰς θάλασσαν
-                                παρ’ ὄσον μεταβάλλει εἰς ἄλληλα τὰ στοιχεῖα. πῦρ μὲν εἰς ἀέρα· ἀὴρ
+                                παρ' <sic>ὄσον</sic> μεταβάλλει εἰς ἄλληλα τὰ στοιχεῖα. πῦρ μὲν εἰς ἀέρα· ἀὴρ
                                 δὲ εἰς ὕδωρ, χαλκεύοντα δὲ ἐν <persName
                                     n="urn:cite:hmt:pers.pers123">Ὠκεανῷ</persName> ὅτι τὰ στερεᾶ
                                 τῆς δι ὕδατος καὶ πυρὸς ἐργασίας τυγχάνει· καὶ <persName
@@ -1459,9 +1459,9 @@
                                     n="urn:cite:hmt:pers.pers901"><choice>
                                         <abbr>Οὐνον</abbr>
                                         <expan>Οὐρανὸν</expan>
-                                    </choice></persName> λέγει τῆν ἐκ πύρωσιν· <persName
+                                    </choice></persName> λέγει τὴν ἐκ πύρωσιν· <persName
                                     n="urn:cite:hmt:pers.pers139">Κρόνον</persName> δὲ. τὸν ἄνωθεν
-                                κρουνηδὸν ἐπιφερόμενον ὄμβρον· ῥέαν δὲ, τὴν ἐπιρρεομένην ὕδασιν·
+                                κρουνηδὸν ἐπιφερόμενον ὄμβρον· <persName n="urn:cite:hmt:pers.pers208">Ῥέαν</persName> δὲ, τὴν ἐπιρρεομένην ὕδασιν·
                                 ἐκτομὴν δὲ <persName n="urn:cite:hmt:pers.pers901"><choice>
                                         <abbr>Οὐνου</abbr>
                                         <expan>Οὐρανοῦ</expan>
@@ -1472,7 +1472,7 @@
                                     n="urn:cite:hmt:pers.pers139">Κρόνου</persName>· ἐπειδήπερ ἡ
                                 μεταβολὴ τῶν ὑγρῶν εἰ στερρότητα πήγνυται· κρύπτεσθαι δὲ τὸν
                                     <persName n="urn:cite:hmt:pers.pers8">Δία</persName>. διὰ τὸ τὸ
-                                ζῆν ἐπικραπτεῖν τὸ τῷ χειμῶνι τοὺς καρποὺς ἀφανίζεσθαι πλεοναζόντων
+                                ζῆν ἐπικρατεῖν τὸ τῷ χειμῶνι τοὺς καρποὺς ἀφανίζεσθαι πλεοναζόντων
                                 ὑγρῶν ⁑</p>
                         </div>
                     </div>
